@@ -145,6 +145,20 @@ sample_pads_frame = ttk.Frame(big_frame)
 sample_pads_frame.grid(column=0, row=7, sticky='n', padx=5, pady=5)
 sample_buttons = {}
 
+# Latency compensation control
+
+def delay_changed():
+    latency = int(delay_setting.get())
+    sp.set_latency(latency)
+
+delay_frame = ttk.Frame(big_frame)
+delay_frame.grid(column=1, row=8, sticky='e', pady=50)
+delay_label = ttk.Label(delay_frame, text='Latency (ms)')
+delay_label.grid(column=0, row=0, sticky='e', padx=5, pady = 5)
+delay_value = tk.StringVar(value=140)
+delay_setting = ttk.Spinbox(delay_frame, from_=0, to=500, textvariable=delay_value, wrap=True, width=3, command=delay_changed)
+delay_setting.grid(column=1, row=0, sticky='e', padx=5, pady = 5)
+
 for idx, sample in enumerate(samples_library.keys()):
     button_grid_size = 4
     sample_buttons[sample] = ttk.Button(sample_pads_frame, text=sample, command = lambda c=sample: sample_pad_trigger(sample_buttons[c].cget("text")))

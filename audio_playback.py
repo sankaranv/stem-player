@@ -119,6 +119,10 @@ class StemPlayer:
         self.channels[channel].set_volume(value)
         logging.debug(f"Volume of {channel} is now {value}")
 
+    def set_latency(self, latency):
+        self.latency = latency
+        logging.info(f"Set loop latency compensation to {latency} ms")
+
     def set_vocals(self, sound):
         self.set_channel_sound("vocals", sound)
 

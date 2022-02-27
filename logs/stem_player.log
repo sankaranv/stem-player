@@ -1,0 +1,386 @@
+[2022-02-27 16:20:27,594] : Initialized Stem Player
+[2022-02-27 16:20:40,154] : Exiting Stem Player
+[2022-02-27 16:25:10,266] : Initialized Stem Player
+[2022-02-27 16:25:33,438] : Triggered sample allstarstems03.wav
+[2022-02-27 16:25:38,709] : Exiting Stem Player
+[2022-02-27 16:26:55,808] : Initialized Stem Player
+[2022-02-27 16:27:07,477] : Exiting Stem Player
+[2022-02-27 16:28:24,464] : Initialized Stem Player
+[2022-02-27 16:28:49,565] : Initialized Stem Player
+[2022-02-27 16:29:00,679] : Exiting Stem Player
+[2022-02-27 16:29:46,363] : Initialized Stem Player
+[2022-02-27 16:29:53,414] : Exiting Stem Player
+[2022-02-27 16:30:06,046] : Initialized Stem Player
+[2022-02-27 16:30:08,681] : Exiting Stem Player
+[2022-02-27 16:30:59,067] : Initialized Stem Player
+[2022-02-27 16:31:05,681] : Exiting Stem Player
+[2022-02-27 16:31:13,517] : Initialized Stem Player
+[2022-02-27 16:31:22,215] : Exiting Stem Player
+[2022-02-27 16:31:41,714] : Initialized Stem Player
+[2022-02-27 16:33:01,673] : Initialized Stem Player
+[2022-02-27 16:33:10,333] : Exiting Stem Player
+[2022-02-27 16:33:16,881] : Initialized Stem Player
+[2022-02-27 16:33:22,867] : Exiting Stem Player
+[2022-02-27 16:33:39,819] : Initialized Stem Player
+[2022-02-27 16:33:46,434] : Exiting Stem Player
+[2022-02-27 16:33:54,320] : Initialized Stem Player
+[2022-02-27 16:34:14,302] : Exiting Stem Player
+[2022-02-27 16:34:23,037] : Initialized Stem Player
+[2022-02-27 16:34:30,151] : Exiting Stem Player
+[2022-02-27 16:37:13,027] : Initialized Stem Player
+[2022-02-27 16:37:15,583] : Set Dancing In My Head lead_1.wav on melody channel
+[2022-02-27 16:37:17,822] : Playing ./sounds/melody/Dancing In My Head lead_1.wav on melody channel with length 18431
+[2022-02-27 16:37:36,118] : Playing ./sounds/melody/Dancing In My Head lead_1.wav on melody channel with length 18431
+[2022-02-27 16:37:36,119] : Looping
+[2022-02-27 16:37:54,394] : Playing ./sounds/melody/Dancing In My Head lead_1.wav on melody channel with length 18431
+[2022-02-27 16:37:54,395] : Looping
+[2022-02-27 16:38:12,672] : Playing ./sounds/melody/Dancing In My Head lead_1.wav on melody channel with length 18431
+[2022-02-27 16:38:12,672] : Looping
+[2022-02-27 16:38:30,968] : Playing ./sounds/melody/Dancing In My Head lead_1.wav on melody channel with length 18431
+[2022-02-27 16:38:30,968] : Looping
+[2022-02-27 16:39:07,132] : Initialized Stem Player
+[2022-02-27 16:39:11,796] : Set Dancing In My Head lead_1.wav on melody channel
+[2022-02-27 16:39:12,740] : Playing ./sounds/melody/Dancing In My Head lead_1.wav on melody channel with length 18431
+[2022-02-27 16:39:31,038] : Playing ./sounds/melody/Dancing In My Head lead_1.wav on melody channel with length 18431
+[2022-02-27 16:39:31,038] : Looping
+[2022-02-27 16:39:40,024] : Exiting Stem Player
+[2022-02-27 16:40:16,234] : Initialized Stem Player
+[2022-02-27 16:40:20,013] : Set loop latency compensation to 139 ms
+[2022-02-27 16:40:20,592] : Set loop latency compensation to 138 ms
+[2022-02-27 16:40:20,909] : Set loop latency compensation to 137 ms
+[2022-02-27 16:40:21,308] : Set loop latency compensation to 136 ms
+[2022-02-27 16:40:25,342] : Set loop latency compensation to 0 ms
+[2022-02-27 16:40:25,642] : Set loop latency compensation to 1 ms
+[2022-02-27 16:40:25,743] : Set loop latency compensation to 2 ms
+[2022-02-27 16:40:25,843] : Set loop latency compensation to 3 ms
+[2022-02-27 16:40:27,725] : Set loop latency compensation to 2 ms
+[2022-02-27 16:40:28,026] : Set loop latency compensation to 1 ms
+[2022-02-27 16:40:28,126] : Set loop latency compensation to 0 ms
+[2022-02-27 16:40:28,226] : Set loop latency compensation to 500 ms
+[2022-02-27 16:40:28,359] : Set loop latency compensation to 499 ms
+[2022-02-27 16:40:29,742] : Set loop latency compensation to 498 ms
+[2022-02-27 16:40:30,491] : Set loop latency compensation to 499 ms
+[2022-02-27 16:40:30,508] : Set loop latency compensation to 500 ms
+[2022-02-27 16:40:30,525] : Set loop latency compensation to 0 ms
+[2022-02-27 16:40:30,541] : Set loop latency compensation to 1 ms
+[2022-02-27 16:40:30,558] : Set loop latency compensation to 2 ms
+[2022-02-27 16:40:30,575] : Set loop latency compensation to 3 ms
+[2022-02-27 16:40:30,591] : Set loop latency compensation to 4 ms
+[2022-02-27 16:40:30,608] : Set loop latency compensation to 5 ms
+[2022-02-27 16:40:30,625] : Set loop latency compensation to 6 ms
+[2022-02-27 16:40:30,641] : Set loop latency compensation to 7 ms
+[2022-02-27 16:40:30,659] : Set loop latency compensation to 8 ms
+[2022-02-27 16:40:30,691] : Set loop latency compensation to 9 ms
+[2022-02-27 16:40:30,708] : Set loop latency compensation to 10 ms
+[2022-02-27 16:40:30,725] : Set loop latency compensation to 11 ms
+[2022-02-27 16:40:30,741] : Set loop latency compensation to 12 ms
+[2022-02-27 16:40:30,758] : Set loop latency compensation to 13 ms
+[2022-02-27 16:40:30,775] : Set loop latency compensation to 14 ms
+[2022-02-27 16:40:30,791] : Set loop latency compensation to 15 ms
+[2022-02-27 16:40:30,808] : Set loop latency compensation to 16 ms
+[2022-02-27 16:40:30,825] : Set loop latency compensation to 17 ms
+[2022-02-27 16:40:30,841] : Set loop latency compensation to 18 ms
+[2022-02-27 16:40:30,858] : Set loop latency compensation to 19 ms
+[2022-02-27 16:40:30,875] : Set loop latency compensation to 20 ms
+[2022-02-27 16:40:30,891] : Set loop latency compensation to 21 ms
+[2022-02-27 16:40:30,908] : Set loop latency compensation to 22 ms
+[2022-02-27 16:40:30,925] : Set loop latency compensation to 23 ms
+[2022-02-27 16:40:30,941] : Set loop latency compensation to 24 ms
+[2022-02-27 16:40:30,958] : Set loop latency compensation to 25 ms
+[2022-02-27 16:40:30,975] : Set loop latency compensation to 26 ms
+[2022-02-27 16:40:30,991] : Set loop latency compensation to 27 ms
+[2022-02-27 16:40:31,008] : Set loop latency compensation to 28 ms
+[2022-02-27 16:40:31,025] : Set loop latency compensation to 29 ms
+[2022-02-27 16:40:31,042] : Set loop latency compensation to 30 ms
+[2022-02-27 16:40:31,058] : Set loop latency compensation to 31 ms
+[2022-02-27 16:40:31,075] : Set loop latency compensation to 32 ms
+[2022-02-27 16:40:31,091] : Set loop latency compensation to 33 ms
+[2022-02-27 16:40:31,110] : Set loop latency compensation to 34 ms
+[2022-02-27 16:40:31,125] : Set loop latency compensation to 35 ms
+[2022-02-27 16:40:31,141] : Set loop latency compensation to 36 ms
+[2022-02-27 16:40:31,158] : Set loop latency compensation to 37 ms
+[2022-02-27 16:40:31,175] : Set loop latency compensation to 38 ms
+[2022-02-27 16:40:31,192] : Set loop latency compensation to 39 ms
+[2022-02-27 16:40:31,408] : Set loop latency compensation to 40 ms
+[2022-02-27 16:40:31,425] : Set loop latency compensation to 41 ms
+[2022-02-27 16:40:31,442] : Set loop latency compensation to 42 ms
+[2022-02-27 16:40:31,458] : Set loop latency compensation to 43 ms
+[2022-02-27 16:40:31,475] : Set loop latency compensation to 44 ms
+[2022-02-27 16:40:31,492] : Set loop latency compensation to 45 ms
+[2022-02-27 16:40:31,508] : Set loop latency compensation to 46 ms
+[2022-02-27 16:40:31,558] : Set loop latency compensation to 47 ms
+[2022-02-27 16:40:31,575] : Set loop latency compensation to 48 ms
+[2022-02-27 16:40:31,625] : Set loop latency compensation to 49 ms
+[2022-02-27 16:40:31,642] : Set loop latency compensation to 50 ms
+[2022-02-27 16:40:31,658] : Set loop latency compensation to 51 ms
+[2022-02-27 16:40:31,725] : Set loop latency compensation to 52 ms
+[2022-02-27 16:40:31,808] : Set loop latency compensation to 53 ms
+[2022-02-27 16:40:32,058] : Set loop latency compensation to 54 ms
+[2022-02-27 16:40:32,075] : Set loop latency compensation to 55 ms
+[2022-02-27 16:40:32,091] : Set loop latency compensation to 56 ms
+[2022-02-27 16:40:32,125] : Set loop latency compensation to 57 ms
+[2022-02-27 16:40:32,158] : Set loop latency compensation to 58 ms
+[2022-02-27 16:40:32,175] : Set loop latency compensation to 59 ms
+[2022-02-27 16:40:32,191] : Set loop latency compensation to 60 ms
+[2022-02-27 16:40:32,208] : Set loop latency compensation to 61 ms
+[2022-02-27 16:40:32,225] : Set loop latency compensation to 62 ms
+[2022-02-27 16:40:32,241] : Set loop latency compensation to 63 ms
+[2022-02-27 16:40:32,258] : Set loop latency compensation to 64 ms
+[2022-02-27 16:40:32,291] : Set loop latency compensation to 65 ms
+[2022-02-27 16:40:35,692] : Set loop latency compensation to 499 ms
+[2022-02-27 16:40:35,708] : Set loop latency compensation to 498 ms
+[2022-02-27 16:40:35,725] : Set loop latency compensation to 497 ms
+[2022-02-27 16:40:35,741] : Set loop latency compensation to 496 ms
+[2022-02-27 16:40:35,758] : Set loop latency compensation to 495 ms
+[2022-02-27 16:40:35,775] : Set loop latency compensation to 494 ms
+[2022-02-27 16:40:35,775] : Set loop latency compensation to 495 ms
+[2022-02-27 16:40:35,791] : Set loop latency compensation to 494 ms
+[2022-02-27 16:40:35,808] : Set loop latency compensation to 493 ms
+[2022-02-27 16:40:35,825] : Set loop latency compensation to 492 ms
+[2022-02-27 16:40:35,842] : Set loop latency compensation to 491 ms
+[2022-02-27 16:40:35,842] : Set loop latency compensation to 492 ms
+[2022-02-27 16:40:35,858] : Set loop latency compensation to 491 ms
+[2022-02-27 16:40:35,875] : Set loop latency compensation to 490 ms
+[2022-02-27 16:40:35,891] : Set loop latency compensation to 489 ms
+[2022-02-27 16:40:36,725] : Set loop latency compensation to 488 ms
+[2022-02-27 16:40:36,758] : Set loop latency compensation to 487 ms
+[2022-02-27 16:40:36,791] : Set loop latency compensation to 486 ms
+[2022-02-27 16:40:38,225] : Set loop latency compensation to 485 ms
+[2022-02-27 16:40:38,242] : Set loop latency compensation to 484 ms
+[2022-02-27 16:40:38,258] : Set loop latency compensation to 483 ms
+[2022-02-27 16:40:38,291] : Set loop latency compensation to 482 ms
+[2022-02-27 16:40:38,308] : Set loop latency compensation to 481 ms
+[2022-02-27 16:40:38,309] : Set loop latency compensation to 482 ms
+[2022-02-27 16:40:38,325] : Set loop latency compensation to 481 ms
+[2022-02-27 16:40:38,325] : Set loop latency compensation to 482 ms
+[2022-02-27 16:40:38,342] : Set loop latency compensation to 481 ms
+[2022-02-27 16:40:38,358] : Set loop latency compensation to 480 ms
+[2022-02-27 16:40:38,375] : Set loop latency compensation to 479 ms
+[2022-02-27 16:40:38,392] : Set loop latency compensation to 478 ms
+[2022-02-27 16:40:41,711] : Set Dancing In My Head lead_1.wav on melody channel
+[2022-02-27 16:40:45,693] : Playing ./sounds/melody/Dancing In My Head lead_1.wav on melody channel with length 18431
+[2022-02-27 16:41:03,651] : Playing ./sounds/melody/Dancing In My Head lead_1.wav on melody channel with length 18431
+[2022-02-27 16:41:03,651] : Looping
+[2022-02-27 16:41:18,226] : Set loop latency compensation to 479 ms
+[2022-02-27 16:41:18,242] : Set loop latency compensation to 480 ms
+[2022-02-27 16:41:18,259] : Set loop latency compensation to 481 ms
+[2022-02-27 16:41:18,259] : Set loop latency compensation to 482 ms
+[2022-02-27 16:41:18,276] : Set loop latency compensation to 483 ms
+[2022-02-27 16:41:18,276] : Set loop latency compensation to 484 ms
+[2022-02-27 16:41:18,326] : Set loop latency compensation to 485 ms
+[2022-02-27 16:41:18,342] : Set loop latency compensation to 486 ms
+[2022-02-27 16:41:18,359] : Set loop latency compensation to 487 ms
+[2022-02-27 16:41:18,376] : Set loop latency compensation to 488 ms
+[2022-02-27 16:41:18,392] : Set loop latency compensation to 489 ms
+[2022-02-27 16:41:18,426] : Set loop latency compensation to 490 ms
+[2022-02-27 16:41:18,442] : Set loop latency compensation to 491 ms
+[2022-02-27 16:41:18,459] : Set loop latency compensation to 492 ms
+[2022-02-27 16:41:18,476] : Set loop latency compensation to 493 ms
+[2022-02-27 16:41:18,492] : Set loop latency compensation to 494 ms
+[2022-02-27 16:41:18,509] : Set loop latency compensation to 495 ms
+[2022-02-27 16:41:18,542] : Set loop latency compensation to 496 ms
+[2022-02-27 16:41:18,559] : Set loop latency compensation to 497 ms
+[2022-02-27 16:41:18,576] : Set loop latency compensation to 498 ms
+[2022-02-27 16:41:18,592] : Set loop latency compensation to 499 ms
+[2022-02-27 16:41:18,609] : Set loop latency compensation to 500 ms
+[2022-02-27 16:41:18,626] : Set loop latency compensation to 0 ms
+[2022-02-27 16:41:18,642] : Set loop latency compensation to 1 ms
+[2022-02-27 16:41:18,659] : Set loop latency compensation to 2 ms
+[2022-02-27 16:41:18,676] : Set loop latency compensation to 3 ms
+[2022-02-27 16:41:18,692] : Set loop latency compensation to 4 ms
+[2022-02-27 16:41:18,709] : Set loop latency compensation to 5 ms
+[2022-02-27 16:41:18,726] : Set loop latency compensation to 6 ms
+[2022-02-27 16:41:18,742] : Set loop latency compensation to 7 ms
+[2022-02-27 16:41:18,776] : Set loop latency compensation to 8 ms
+[2022-02-27 16:41:18,792] : Set loop latency compensation to 9 ms
+[2022-02-27 16:41:18,809] : Set loop latency compensation to 10 ms
+[2022-02-27 16:41:18,826] : Set loop latency compensation to 11 ms
+[2022-02-27 16:41:19,009] : Set loop latency compensation to 12 ms
+[2022-02-27 16:41:19,026] : Set loop latency compensation to 13 ms
+[2022-02-27 16:41:19,042] : Set loop latency compensation to 14 ms
+[2022-02-27 16:41:19,059] : Set loop latency compensation to 15 ms
+[2022-02-27 16:41:19,142] : Set loop latency compensation to 16 ms
+[2022-02-27 16:41:19,159] : Set loop latency compensation to 17 ms
+[2022-02-27 16:41:19,176] : Set loop latency compensation to 18 ms
+[2022-02-27 16:41:19,192] : Set loop latency compensation to 19 ms
+[2022-02-27 16:41:19,193] : Set loop latency compensation to 20 ms
+[2022-02-27 16:41:19,209] : Set loop latency compensation to 21 ms
+[2022-02-27 16:41:19,209] : Set loop latency compensation to 22 ms
+[2022-02-27 16:41:19,243] : Set loop latency compensation to 23 ms
+[2022-02-27 16:41:19,243] : Set loop latency compensation to 24 ms
+[2022-02-27 16:41:19,260] : Set loop latency compensation to 25 ms
+[2022-02-27 16:41:19,292] : Set loop latency compensation to 26 ms
+[2022-02-27 16:41:19,309] : Set loop latency compensation to 27 ms
+[2022-02-27 16:41:19,326] : Set loop latency compensation to 28 ms
+[2022-02-27 16:41:19,342] : Set loop latency compensation to 29 ms
+[2022-02-27 16:41:19,359] : Set loop latency compensation to 30 ms
+[2022-02-27 16:41:19,376] : Set loop latency compensation to 31 ms
+[2022-02-27 16:41:19,392] : Set loop latency compensation to 32 ms
+[2022-02-27 16:41:19,409] : Set loop latency compensation to 33 ms
+[2022-02-27 16:41:19,426] : Set loop latency compensation to 34 ms
+[2022-02-27 16:41:19,576] : Set loop latency compensation to 35 ms
+[2022-02-27 16:41:19,592] : Set loop latency compensation to 36 ms
+[2022-02-27 16:41:19,609] : Set loop latency compensation to 37 ms
+[2022-02-27 16:41:19,626] : Set loop latency compensation to 38 ms
+[2022-02-27 16:41:19,642] : Set loop latency compensation to 39 ms
+[2022-02-27 16:41:19,659] : Set loop latency compensation to 40 ms
+[2022-02-27 16:41:19,659] : Set loop latency compensation to 41 ms
+[2022-02-27 16:41:19,676] : Set loop latency compensation to 42 ms
+[2022-02-27 16:41:19,693] : Set loop latency compensation to 43 ms
+[2022-02-27 16:41:19,709] : Set loop latency compensation to 44 ms
+[2022-02-27 16:41:19,726] : Set loop latency compensation to 45 ms
+[2022-02-27 16:41:19,776] : Set loop latency compensation to 46 ms
+[2022-02-27 16:41:19,792] : Set loop latency compensation to 47 ms
+[2022-02-27 16:41:19,809] : Set loop latency compensation to 48 ms
+[2022-02-27 16:41:19,826] : Set loop latency compensation to 49 ms
+[2022-02-27 16:41:19,842] : Set loop latency compensation to 50 ms
+[2022-02-27 16:41:19,859] : Set loop latency compensation to 51 ms
+[2022-02-27 16:41:19,876] : Set loop latency compensation to 52 ms
+[2022-02-27 16:41:19,926] : Set loop latency compensation to 53 ms
+[2022-02-27 16:41:19,943] : Set loop latency compensation to 54 ms
+[2022-02-27 16:41:20,043] : Set loop latency compensation to 55 ms
+[2022-02-27 16:41:20,059] : Set loop latency compensation to 56 ms
+[2022-02-27 16:41:20,076] : Set loop latency compensation to 57 ms
+[2022-02-27 16:41:20,092] : Set loop latency compensation to 58 ms
+[2022-02-27 16:41:20,109] : Set loop latency compensation to 59 ms
+[2022-02-27 16:41:20,126] : Set loop latency compensation to 60 ms
+[2022-02-27 16:41:20,142] : Set loop latency compensation to 61 ms
+[2022-02-27 16:41:20,159] : Set loop latency compensation to 62 ms
+[2022-02-27 16:41:20,176] : Set loop latency compensation to 63 ms
+[2022-02-27 16:41:20,193] : Set loop latency compensation to 64 ms
+[2022-02-27 16:41:20,209] : Set loop latency compensation to 65 ms
+[2022-02-27 16:41:20,226] : Set loop latency compensation to 66 ms
+[2022-02-27 16:41:20,226] : Set loop latency compensation to 67 ms
+[2022-02-27 16:41:20,242] : Set loop latency compensation to 68 ms
+[2022-02-27 16:41:20,259] : Set loop latency compensation to 69 ms
+[2022-02-27 16:41:20,276] : Set loop latency compensation to 70 ms
+[2022-02-27 16:41:20,294] : Set loop latency compensation to 71 ms
+[2022-02-27 16:41:20,326] : Set loop latency compensation to 72 ms
+[2022-02-27 16:41:20,343] : Set loop latency compensation to 73 ms
+[2022-02-27 16:41:20,359] : Set loop latency compensation to 74 ms
+[2022-02-27 16:41:20,360] : Set loop latency compensation to 75 ms
+[2022-02-27 16:41:20,376] : Set loop latency compensation to 76 ms
+[2022-02-27 16:41:20,393] : Set loop latency compensation to 77 ms
+[2022-02-27 16:41:20,409] : Set loop latency compensation to 78 ms
+[2022-02-27 16:41:20,426] : Set loop latency compensation to 79 ms
+[2022-02-27 16:41:20,443] : Set loop latency compensation to 80 ms
+[2022-02-27 16:41:20,459] : Set loop latency compensation to 81 ms
+[2022-02-27 16:41:20,476] : Set loop latency compensation to 82 ms
+[2022-02-27 16:41:20,493] : Set loop latency compensation to 83 ms
+[2022-02-27 16:41:20,876] : Set loop latency compensation to 84 ms
+[2022-02-27 16:41:20,895] : Set loop latency compensation to 85 ms
+[2022-02-27 16:41:20,909] : Set loop latency compensation to 86 ms
+[2022-02-27 16:41:20,926] : Set loop latency compensation to 87 ms
+[2022-02-27 16:41:20,943] : Set loop latency compensation to 88 ms
+[2022-02-27 16:41:20,959] : Set loop latency compensation to 89 ms
+[2022-02-27 16:41:20,976] : Set loop latency compensation to 90 ms
+[2022-02-27 16:41:20,993] : Set loop latency compensation to 91 ms
+[2022-02-27 16:41:21,009] : Set loop latency compensation to 92 ms
+[2022-02-27 16:41:21,026] : Set loop latency compensation to 93 ms
+[2022-02-27 16:41:21,026] : Set loop latency compensation to 94 ms
+[2022-02-27 16:41:21,043] : Set loop latency compensation to 95 ms
+[2022-02-27 16:41:21,059] : Set loop latency compensation to 96 ms
+[2022-02-27 16:41:21,076] : Set loop latency compensation to 97 ms
+[2022-02-27 16:41:21,093] : Set loop latency compensation to 98 ms
+[2022-02-27 16:41:21,192] : Set loop latency compensation to 99 ms
+[2022-02-27 16:41:21,209] : Set loop latency compensation to 100 ms
+[2022-02-27 16:41:21,242] : Set loop latency compensation to 101 ms
+[2022-02-27 16:41:21,260] : Set loop latency compensation to 102 ms
+[2022-02-27 16:41:21,276] : Set loop latency compensation to 103 ms
+[2022-02-27 16:41:21,293] : Set loop latency compensation to 104 ms
+[2022-02-27 16:41:21,309] : Set loop latency compensation to 105 ms
+[2022-02-27 16:41:21,326] : Set loop latency compensation to 106 ms
+[2022-02-27 16:41:21,343] : Set loop latency compensation to 107 ms
+[2022-02-27 16:41:21,606] : Playing ./sounds/melody/Dancing In My Head lead_1.wav on melody channel with length 18431
+[2022-02-27 16:41:21,606] : Looping
+[2022-02-27 16:41:22,059] : Set loop latency compensation to 108 ms
+[2022-02-27 16:41:22,076] : Set loop latency compensation to 109 ms
+[2022-02-27 16:41:22,093] : Set loop latency compensation to 110 ms
+[2022-02-27 16:41:22,109] : Set loop latency compensation to 111 ms
+[2022-02-27 16:41:22,209] : Set loop latency compensation to 112 ms
+[2022-02-27 16:41:22,292] : Set loop latency compensation to 113 ms
+[2022-02-27 16:41:22,359] : Set loop latency compensation to 114 ms
+[2022-02-27 16:41:22,692] : Set loop latency compensation to 115 ms
+[2022-02-27 16:41:22,726] : Set loop latency compensation to 116 ms
+[2022-02-27 16:41:22,743] : Set loop latency compensation to 117 ms
+[2022-02-27 16:41:22,759] : Set loop latency compensation to 118 ms
+[2022-02-27 16:41:22,776] : Set loop latency compensation to 119 ms
+[2022-02-27 16:41:22,794] : Set loop latency compensation to 120 ms
+[2022-02-27 16:41:22,809] : Set loop latency compensation to 121 ms
+[2022-02-27 16:41:22,826] : Set loop latency compensation to 122 ms
+[2022-02-27 16:41:22,842] : Set loop latency compensation to 123 ms
+[2022-02-27 16:41:22,859] : Set loop latency compensation to 124 ms
+[2022-02-27 16:41:22,876] : Set loop latency compensation to 125 ms
+[2022-02-27 16:41:22,893] : Set loop latency compensation to 126 ms
+[2022-02-27 16:41:22,926] : Set loop latency compensation to 127 ms
+[2022-02-27 16:41:22,959] : Set loop latency compensation to 128 ms
+[2022-02-27 16:41:22,976] : Set loop latency compensation to 129 ms
+[2022-02-27 16:41:22,993] : Set loop latency compensation to 130 ms
+[2022-02-27 16:41:23,009] : Set loop latency compensation to 131 ms
+[2022-02-27 16:41:23,026] : Set loop latency compensation to 132 ms
+[2022-02-27 16:41:23,043] : Set loop latency compensation to 133 ms
+[2022-02-27 16:41:23,059] : Set loop latency compensation to 134 ms
+[2022-02-27 16:41:23,076] : Set loop latency compensation to 135 ms
+[2022-02-27 16:41:23,109] : Set loop latency compensation to 136 ms
+[2022-02-27 16:41:23,126] : Set loop latency compensation to 137 ms
+[2022-02-27 16:41:23,142] : Set loop latency compensation to 138 ms
+[2022-02-27 16:41:23,159] : Set loop latency compensation to 139 ms
+[2022-02-27 16:41:23,192] : Set loop latency compensation to 140 ms
+[2022-02-27 16:41:23,209] : Set loop latency compensation to 141 ms
+[2022-02-27 16:41:23,226] : Set loop latency compensation to 142 ms
+[2022-02-27 16:41:23,292] : Set loop latency compensation to 143 ms
+[2022-02-27 16:41:23,409] : Set loop latency compensation to 144 ms
+[2022-02-27 16:41:23,809] : Set loop latency compensation to 143 ms
+[2022-02-27 16:41:24,193] : Set loop latency compensation to 142 ms
+[2022-02-27 16:41:24,676] : Set loop latency compensation to 141 ms
+[2022-02-27 16:41:25,026] : Set loop latency compensation to 140 ms
+[2022-02-27 16:41:26,710] : Stopped playback
+[2022-02-27 16:41:27,243] : Stopped playback
+[2022-02-27 16:41:27,610] : Playing ./sounds/melody/Dancing In My Head lead_1.wav on melody channel with length 18431
+[2022-02-27 16:41:30,776] : Exiting Stem Player
+[2022-02-27 16:42:36,640] : Initialized Stem Player
+[2022-02-27 16:42:42,511] : Set loop latency compensation to 139 ms
+[2022-02-27 16:42:42,527] : Set loop latency compensation to 138 ms
+[2022-02-27 16:42:42,544] : Set loop latency compensation to 137 ms
+[2022-02-27 16:42:42,577] : Set loop latency compensation to 136 ms
+[2022-02-27 16:42:42,594] : Set loop latency compensation to 135 ms
+[2022-02-27 16:42:42,611] : Set loop latency compensation to 134 ms
+[2022-02-27 16:42:42,611] : Set loop latency compensation to 135 ms
+[2022-02-27 16:42:42,627] : Set loop latency compensation to 134 ms
+[2022-02-27 16:42:43,077] : Set loop latency compensation to 135 ms
+[2022-02-27 16:42:44,695] : Set loop latency compensation to 136 ms
+[2022-02-27 16:42:46,145] : Set loop latency compensation to 135 ms
+[2022-02-27 16:42:46,445] : Set loop latency compensation to 134 ms
+[2022-02-27 16:42:46,546] : Set loop latency compensation to 133 ms
+[2022-02-27 16:42:52,127] : Set loop latency compensation to 132 ms
+[2022-02-27 16:42:52,144] : Set loop latency compensation to 131 ms
+[2022-02-27 16:42:52,161] : Set loop latency compensation to 130 ms
+[2022-02-27 16:42:52,178] : Set loop latency compensation to 129 ms
+[2022-02-27 16:42:52,194] : Set loop latency compensation to 128 ms
+[2022-02-27 16:42:52,228] : Set loop latency compensation to 127 ms
+[2022-02-27 16:42:52,661] : Set loop latency compensation to 128 ms
+[2022-02-27 16:42:52,727] : Set loop latency compensation to 129 ms
+[2022-02-27 16:42:53,661] : Set loop latency compensation to 128 ms
+[2022-02-27 16:42:56,644] : Exiting Stem Player
+[2022-02-27 16:44:33,991] : Initialized Stem Player
+[2022-02-27 16:44:44,700] : Set loop latency compensation to 0 ms
+[2022-02-27 16:44:46,630] : Set loop latency compensation to 1 ms
+[2022-02-27 16:44:47,330] : Set loop latency compensation to 0 ms
+[2022-02-27 16:44:47,564] : Set loop latency compensation to 500 ms
+[2022-02-27 16:44:47,947] : Set loop latency compensation to 499 ms
+[2022-02-27 16:44:48,248] : Set loop latency compensation to 498 ms
+[2022-02-27 16:44:48,348] : Set loop latency compensation to 497 ms
+[2022-02-27 16:44:49,930] : Set loop latency compensation to 496 ms
+[2022-02-27 16:44:50,147] : Set loop latency compensation to 495 ms
+[2022-02-27 16:44:50,380] : Set loop latency compensation to 494 ms
+[2022-02-27 16:44:50,580] : Set loop latency compensation to 493 ms
+[2022-02-27 16:44:50,964] : Set loop latency compensation to 492 ms
+[2022-02-27 16:44:51,180] : Set loop latency compensation to 491 ms
+[2022-02-27 16:44:51,597] : Set loop latency compensation to 490 ms
+[2022-02-27 16:44:53,700] : Exiting Stem Player
+[2022-02-27 16:46:14,595] : Initialized Stem Player
+[2022-02-27 16:46:18,651] : Set Dancing In My Head lead_1.wav on melody channel
+[2022-02-27 16:46:19,615] : Playing ./sounds/melody/Dancing In My Head lead_1.wav on melody channel with length 18431
+[2022-02-27 16:46:22,239] : Set Dancing In My Head bells_1.wav on melody channel
+[2022-02-27 16:46:22,965] : Playing ./sounds/melody/Dancing In My Head bells_1.wav on melody channel with length 18431
+[2022-02-27 16:46:34,932] : Exiting Stem Player
