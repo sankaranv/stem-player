@@ -80,8 +80,11 @@ class StemPlayer:
     def set_instrumental(self, sound):
         self.set_channel_sound("instrumental", sound)
     
-    def trigger_sample(self):
-        pass
+    def trigger_sample(self, sound):
+        if os.path.isfile(self.sounds_dir + "samples/" + sound):
+            sound_path = self.sounds_dir + "samples/" + sound
+            self.channels["samples"].play(pygame.mixer.Sound(sound_path))
+            logging.info(f"Triggered sample {sound}")
 
 if __name__ == "__main__":
     pass

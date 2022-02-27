@@ -123,19 +123,23 @@ def samples_volume_changed(event):
     volume = samples_slider.get()
     sp.set_channel_volume("samples", volume)
 
+def sample_pad_trigger(selection):
+    sound = samples_library[selection]
+    sp.trigger_sample(sound)
+
 samples_label = ttk.Label(big_frame, text="SAMPLES")
 samples_label.grid(column=0, row=5, sticky='n', padx=5, pady=5)
-samples_slider = ttk.Scale(big_frame, from_=0, to=100, orient="horizontal", command=samples_volume_changed)
+samples_slider = ttk.Scale(big_frame, from_=0, to=1, orient="horizontal", command=samples_volume_changed)
 samples_slider.grid(column=0, row=6, sticky='n', padx=5, pady=5)
 samples_slider.set(100)
 
-sample_pads = ttk.Frame(big_frame)
-sample_pads.grid(column=0, row=7, sticky='n', padx=5, pady=5)
+sample_pads_frame = ttk.Frame(big_frame)
+sample_pads_frame.grid(column=0, row=7, sticky='n', padx=5, pady=5)
 sample_buttons = {}
 
 for idx, sample in enumerate(samples_library.keys()):
     button_grid_size = 4
-    sample_buttons[sample] = ttk.Button(sample_pads, text=sample)
+    sample_buttons[sample] = ttk.Button(sample_pads_frame, text=sample, command = lambda c=sample: sample_pad_trigger(sample_buttons[c].cget("text")))
     sample_buttons[sample].grid(column = idx % button_grid_size, row = idx // button_grid_size, sticky='nsew', padx=5, pady=5)
 
 root.title("697M Stem Player")
