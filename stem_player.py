@@ -5,6 +5,7 @@ import csv
 import pygame
 import logging
 import sys
+import os
 
 file_handler = logging.FileHandler(filename='logs/stem_player.log')
 stdout_handler = logging.StreamHandler(sys.stdout)
@@ -69,22 +70,22 @@ vocals_slider.set(100)
 # Second row - selectors for loops
 
 instrumental_library = {}
-with open(sounds_dir + 'instrumental.csv', 'r') as file:
-    reader = csv.reader(file)
-    for row in reader:
-        instrumental_library[row[0]] = row[1]
+for file in os.listdir("./sounds/instrumental"):
+    if file.endswith(".wav"):
+        name = file.replace(".wav", '')
+        instrumental_library[name] = file
 
 melody_library = {}
-with open(sounds_dir + 'melody.csv', 'r') as file:
-    reader = csv.reader(file)
-    for row in reader:
-        melody_library[row[0]] = row[1]
+for file in os.listdir("./sounds/melody"):
+    if file.endswith(".wav"):
+        name = file.replace(".wav", '')
+        melody_library[name] = file
 
 vocals_library = {}
-with open(sounds_dir + 'vocals.csv', 'r') as file:
-    reader = csv.reader(file)
-    for row in reader:
-        vocals_library[row[0]] = row[1]
+for file in os.listdir("./sounds/vocals"):
+    if file.endswith(".wav"):
+        name = file.replace(".wav", '')
+        vocals_library[name] = file
 
 def instrumental_combo_selector(event):
     selection = instrumental_selector.get()
@@ -155,7 +156,7 @@ delay_frame = ttk.Frame(big_frame)
 delay_frame.grid(column=1, row=8, sticky='e', pady=50)
 delay_label = ttk.Label(delay_frame, text='Latency (ms)')
 delay_label.grid(column=0, row=0, sticky='e', padx=5, pady = 5)
-delay_value = tk.StringVar(value=140)
+delay_value = tk.StringVar(value=sp.latency)
 delay_setting = ttk.Spinbox(delay_frame, from_=0, to=500, textvariable=delay_value, wrap=True, width=3, command=delay_changed)
 delay_setting.grid(column=1, row=0, sticky='e', padx=5, pady = 5)
 

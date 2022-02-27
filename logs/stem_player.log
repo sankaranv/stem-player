@@ -384,3 +384,36 @@
 [2022-02-27 16:46:22,239] : Set Dancing In My Head bells_1.wav on melody channel
 [2022-02-27 16:46:22,965] : Playing ./sounds/melody/Dancing In My Head bells_1.wav on melody channel with length 18431
 [2022-02-27 16:46:34,932] : Exiting Stem Player
+[2022-02-27 17:16:30,384] : Initialized Stem Player
+[2022-02-27 17:16:32,976] : Set My Universe instrumental_1.wav on melody channel
+[2022-02-27 17:16:33,912] : Playing ./sounds/melody/My Universe instrumental_1.wav on melody channel with length 18431
+[2022-02-27 17:16:40,720] : Set My Universe instrumental_1.wav on instrumental channel
+[2022-02-27 17:16:42,866] : Set My Universe pad_1.wav on melody channel
+[2022-02-27 17:16:43,663] : Playing ./sounds/instrumental/My Universe instrumental_1.wav on instrumental channel with length 18431
+[2022-02-27 17:16:43,663] : Playing ./sounds/melody/My Universe pad_1.wav on melody channel with length 18431
+[2022-02-27 17:16:46,911] : Set Dancing In My Head bells_1.wav on melody channel
+[2022-02-27 17:16:47,646] : Playing ./sounds/instrumental/My Universe instrumental_1.wav on instrumental channel with length 18431
+[2022-02-27 17:16:47,646] : Playing ./sounds/melody/Dancing In My Head bells_1.wav on melody channel with length 18431
+[2022-02-27 17:16:53,920] : Set Dancing In My Head lead_1.wav on melody channel
+[2022-02-27 17:16:55,271] : Playing ./sounds/instrumental/My Universe instrumental_1.wav on instrumental channel with length 18431
+[2022-02-27 17:16:55,271] : Playing ./sounds/melody/Dancing In My Head lead_1.wav on melody channel with length 18431
+[2022-02-27 17:17:13,567] : Playing ./sounds/instrumental/My Universe instrumental_1.wav on instrumental channel with length 18431
+[2022-02-27 17:17:13,568] : Playing ./sounds/melody/Dancing In My Head lead_1.wav on melody channel with length 18431
+[2022-02-27 17:17:13,568] : Looping
+[2022-02-27 17:17:22,664] : Play/Pause - current state is playing, so now pausing
+[2022-02-27 17:17:23,681] : Stopped playback
+[2022-02-27 17:17:24,563] : Stopped playback
+[2022-02-27 17:17:26,130] : Exiting Stem Player
+[2022-02-27 17:18:42,225] : Initialized Stem Player
+[2022-02-27 17:18:45,581] : Set My Universe instrumental_1.wav on instrumental channel
+[2022-02-27 17:18:46,892] : Set My Universe chords_1.wav on melody channel
+[2022-02-27 17:18:48,182] : Playing ./sounds/instrumental/My Universe instrumental_1.wav on instrumental channel with length 18431
+[2022-02-27 17:18:48,183] : Playing ./sounds/melody/My Universe chords_1.wav on melody channel with length 18431
+[2022-02-27 17:18:50,249] : Stopped playback
+[2022-02-27 17:18:52,708] : Playing ./sounds/instrumental/My Universe instrumental_1.wav on instrumental channel with length 18431
+[2022-02-27 17:18:52,708] : Playing ./sounds/melody/My Universe chords_1.wav on melody channel with length 18431
+[2022-02-27 17:19:10,993] : Playing ./sounds/instrumental/My Universe instrumental_1.wav on instrumental channel with length 18431
+[2022-02-27 17:19:10,993] : Playing ./sounds/melody/My Universe chords_1.wav on melody channel with length 18431
+[2022-02-27 17:19:10,994] : Looping
+[2022-02-27 17:19:22,382] : Stopped playback
+[2022-02-27 17:19:29,698] : Exiting Stem Player

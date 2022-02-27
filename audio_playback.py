@@ -29,7 +29,7 @@ class StemPlayer:
                         "instrumental": {"location": None, "obj": None}
                         } 
         self.loop_length = 18431
-        self.latency = 140
+        self.latency = 150
 
     def play_pause(self):
 
