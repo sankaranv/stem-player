@@ -3,11 +3,13 @@ import sys
 import logging
 from threading import Thread
 
-logging.basicConfig(level=logging.INFO)
 os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = '1'
-
 import pygame
 
+file_handler = logging.FileHandler(filename='logs/stem_player.log')
+stdout_handler = logging.StreamHandler(sys.stdout)
+handlers = [file_handler, stdout_handler]
+logging.basicConfig(level=logging.INFO, handlers=handlers, format='[%(asctime)s] : %(message)s')
 
 class StemPlayer:
 
@@ -26,7 +28,8 @@ class StemPlayer:
                         "melody": {"location": None, "obj": None}, 
                         "instrumental": {"location": None, "obj": None}
                         } 
-        self.loop_length = 18.431995391845703
+        self.loop_length = 18431
+        self.latency = 140
 
     def play_pause(self):
 
@@ -45,30 +48,26 @@ class StemPlayer:
     def replay_all_loops(self):
         pygame.mixer.stop()
         self.player_state = "playing"
-        pygame.mixer.music.set_endevent(pygame.USEREVENT)
         threads = []
         threads.append(Thread(target = self.play_instrumental))
         threads.append(Thread(target = self.play_melody))
         threads.append(Thread(target = self.play_vocals))
+        threads.append(Thread(target = self.set_replay_timer))
         for thread in threads:
             thread.start()
         for thread in threads:
             thread.join()
-        for event in pygame.event.get():
-            if event.type == pygame.USEREVENT:
-                for thread in threads:
-                    thread.start()
-                for thread in threads:
-                    thread.join()
 
+    def set_replay_timer(self):
+        pygame.time.set_timer(pygame.USEREVENT, self.loop_length - self.latency)
     
     def play_instrumental(self):
         sound = self.active_loops["instrumental"]
         obj = sound["obj"]
         loc = sound["location"]
         if obj is not None:
-            self.channels["instrumental"].play(obj, -1)
-            self.loop_length = obj.get_length()
+            self.channels["instrumental"].play(obj)
+            self.loop_length = int(obj.get_length() * 1000)
             logging.info(f"Playing {loc} on instrumental channel with length {self.loop_length}")
             
 
@@ -77,8 +76,8 @@ class StemPlayer:
         obj = sound["obj"]
         loc = sound["location"]
         if obj is not None:
-            self.channels["melody"].play(sound["obj"], -1)
-            self.loop_length = obj.get_length()
+            self.channels["melody"].play(sound["obj"])
+            self.loop_length = int(obj.get_length() * 1000)
             logging.info(f"Playing {loc} on melody channel with length {self.loop_length}")
 
     def play_vocals(self):
@@ -86,8 +85,8 @@ class StemPlayer:
         obj = sound["obj"]
         loc = sound["location"]
         if obj is not None:
-            self.channels["vocals"].play(sound["obj"], -1)
-            self.loop_length = obj.get_length()
+            self.channels["vocals"].play(sound["obj"])
+            self.loop_length = int(obj.get_length() * 1000)
             logging.info(f"Playing {loc} on vocals channel with length {self.loop_length}")
 
     def stop_all_playback(self):
@@ -99,6 +98,8 @@ class StemPlayer:
         pygame.init()
         pygame.mixer.pre_init(frequency=44100, size=-16, channels=2, buffer=512)
         pygame.mixer.init()
+        pygame.mixer.quit()
+        pygame.mixer.init(frequency=44100, size=-16, channels=2, buffer=512)
         self.player_state = "stopped"
         logging.info(f"Initialized Stem Player")
 

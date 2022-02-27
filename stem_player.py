@@ -2,6 +2,14 @@ from audio_playback import StemPlayer
 import tkinter as tk
 from tkinter import ttk
 import csv
+import pygame
+import logging
+import sys
+
+file_handler = logging.FileHandler(filename='logs/stem_player.log')
+stdout_handler = logging.StreamHandler(sys.stdout)
+handlers = [file_handler, stdout_handler]
+logging.basicConfig(level=logging.INFO, handlers=handlers, format='[%(asctime)s] : %(message)s')
 
 root = tk.Tk()
 sp = StemPlayer()
@@ -145,4 +153,22 @@ for idx, sample in enumerate(samples_library.keys()):
 root.title("697M Stem Player")
 root.geometry('800x360')
 root.minsize(400, 180)
-root.mainloop()
+
+running = True
+
+def close_window():
+  global running
+  running = False  # turn off while loop
+  logging.info("Exiting Stem Player")
+
+root.protocol("WM_DELETE_WINDOW", close_window)
+
+# Main event loop
+
+while running:
+    root.update_idletasks()
+    root.update()
+    for e in pygame.event.get():
+        if e.type == pygame.USEREVENT and sp.player_state == "playing":
+            sp.replay_all_loops()
+            logging.info(f"Looping")
