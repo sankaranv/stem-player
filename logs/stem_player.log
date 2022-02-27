@@ -417,3 +417,9 @@
 [2022-02-27 17:19:10,994] : Looping
 [2022-02-27 17:19:22,382] : Stopped playback
 [2022-02-27 17:19:29,698] : Exiting Stem Player
+[2022-02-27 17:21:28,435] : Initialized Stem Player
+[2022-02-27 17:21:31,601] : Triggered sample allstarstems04.wav
+[2022-02-27 17:21:36,875] : Triggered sample allstarstems03.wav
+[2022-02-27 17:21:38,966] : Triggered sample allstarstems02.wav
+[2022-02-27 17:21:42,552] : Stopped playback
+[2022-02-27 17:21:45,500] : Exiting Stem Player

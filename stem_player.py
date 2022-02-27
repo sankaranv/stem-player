@@ -123,10 +123,10 @@ vocals_selector.bind("<<ComboboxSelected>>", vocals_combo_selector)
 # Bottom row - sample grid
 
 samples_library = {}
-with open(sounds_dir + 'samples.csv', 'r') as file:
-    reader = csv.reader(file)
-    for row in reader:
-        samples_library[row[0]] = row[1]
+for file in os.listdir("./sounds/samples"):
+    if file.endswith(".wav"):
+        name = file.replace(".wav", '')
+        samples_library[name] = file
 
 def samples_volume_changed(event):  
     volume = samples_slider.get()
