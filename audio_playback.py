@@ -1,9 +1,13 @@
 import os
 import sys
 import logging
+from threading import Thread
+
 logging.basicConfig(level=logging.INFO)
 os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = '1'
+
 import pygame
+
 
 class StemPlayer:
 
@@ -18,10 +22,11 @@ class StemPlayer:
                         "instrumental": pygame.mixer.Channel(0)
                         }
         self.active_loops = {
-                        "vocals": None, 
-                        "melody": None, 
-                        "instrumental": None
+                        "vocals": {"location": None, "obj": None}, 
+                        "melody": {"location": None, "obj": None}, 
+                        "instrumental": {"location": None, "obj": None}
                         } 
+        self.loop_length = 18.431995391845703
 
     def play_pause(self):
 
@@ -40,11 +45,50 @@ class StemPlayer:
     def replay_all_loops(self):
         pygame.mixer.stop()
         self.player_state = "playing"
-        for channel, sound in self.active_loops.items():
-            if sound is not None and os.path.isfile(self.sounds_dir + channel + "/" + sound):
-                sound_path = self.sounds_dir + channel + "/" + sound  
-                self.channels[channel].play(pygame.mixer.Sound(sound_path), -1)
-                logging.info(f"Playing {sound} on {channel} channel")
+        pygame.mixer.music.set_endevent(pygame.USEREVENT)
+        threads = []
+        threads.append(Thread(target = self.play_instrumental))
+        threads.append(Thread(target = self.play_melody))
+        threads.append(Thread(target = self.play_vocals))
+        for thread in threads:
+            thread.start()
+        for thread in threads:
+            thread.join()
+        for event in pygame.event.get():
+            if event.type == pygame.USEREVENT:
+                for thread in threads:
+                    thread.start()
+                for thread in threads:
+                    thread.join()
+
+    
+    def play_instrumental(self):
+        sound = self.active_loops["instrumental"]
+        obj = sound["obj"]
+        loc = sound["location"]
+        if obj is not None:
+            self.channels["instrumental"].play(obj, -1)
+            self.loop_length = obj.get_length()
+            logging.info(f"Playing {loc} on instrumental channel with length {self.loop_length}")
+            
+
+    def play_melody(self):
+        sound = self.active_loops["melody"]
+        obj = sound["obj"]
+        loc = sound["location"]
+        if obj is not None:
+            self.channels["melody"].play(sound["obj"], -1)
+            self.loop_length = obj.get_length()
+            logging.info(f"Playing {loc} on melody channel with length {self.loop_length}")
+
+    def play_vocals(self):
+        sound = self.active_loops["vocals"]
+        obj = sound["obj"]
+        loc = sound["location"]
+        if obj is not None:
+            self.channels["vocals"].play(sound["obj"], -1)
+            self.loop_length = obj.get_length()
+            logging.info(f"Playing {loc} on vocals channel with length {self.loop_length}")
 
     def stop_all_playback(self):
         pygame.mixer.stop()
@@ -53,14 +97,17 @@ class StemPlayer:
 
     def init_mixer(self):
         pygame.init()
+        pygame.mixer.pre_init(frequency=44100, size=-16, channels=2, buffer=512)
         pygame.mixer.init()
         self.player_state = "stopped"
         logging.info(f"Initialized Stem Player")
 
     def set_channel_sound(self, channel, sound):
-        if os.path.isfile(self.sounds_dir + channel + "/" + sound):
-            if self.active_loops[channel] != sound:
-                self.active_loops[channel] = sound
+        sound_path = self.sounds_dir + channel + "/" + sound
+        if os.path.isfile(sound_path):
+            if self.active_loops[channel]["location"] != sound_path:
+                self.active_loops[channel]["location"] = sound_path
+                self.active_loops[channel]["obj"] = pygame.mixer.Sound(sound_path)
                 logging.info(f"Set {sound} on {channel} channel")
             else:
                 logging.info(f"Already playing {sound} on {channel} channel")
