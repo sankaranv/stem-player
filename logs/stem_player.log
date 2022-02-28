@@ -178,3 +178,892 @@ IndexError: list index out of range
 [2022-02-28 10:38:48,580] : Hit Key 4
 [2022-02-28 10:38:48,779] : Triggered sample allstarstems01.wav
 [2022-02-28 10:38:51,837] : Exiting Stem Player
+[2022-02-28 11:42:22,454] : Initialized Stem Player
+[2022-02-28 11:42:22,569] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 11:42:25,762] : Set Avicii - Without You (Instrumental) [2022-02-28 114010]-1.wav on instrumental channel
+[2022-02-28 11:42:27,464] : Playing ./sounds/instrumental/Avicii - Without You (Instrumental) [2022-02-28 114010]-1.wav on instrumental channel with length 7164
+[2022-02-28 11:42:34,478] : Playing ./sounds/instrumental/Avicii - Without You (Instrumental) [2022-02-28 114010]-1.wav on instrumental channel with length 7164
+[2022-02-28 11:42:34,479] : Looping
+[2022-02-28 11:42:35,405] : Stopped playback
+[2022-02-28 11:42:47,368] : Hit Key 1
+[2022-02-28 11:42:47,716] : Triggered sample allstarstems04.wav
+[2022-02-28 11:42:48,537] : Hit Key 4
+[2022-02-28 11:42:48,916] : Triggered sample allstarstems01.wav
+[2022-02-28 11:42:54,800] : Exiting Stem Player
+[2022-02-28 11:43:00,253] : Initialized Stem Player
+[2022-02-28 11:43:00,332] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 11:43:02,645] : Set Where To [2022-02-28 114009].wav on instrumental channel
+[2022-02-28 11:43:05,459] : Set Todo De Ti lead melody [2022-02-28 114014].wav on instrumental channel
+[2022-02-28 11:43:07,800] : Playing ./sounds/instrumental/Todo De Ti lead melody [2022-02-28 114014].wav on instrumental channel with length 8727
+[2022-02-28 11:43:16,383] : Playing ./sounds/instrumental/Todo De Ti lead melody [2022-02-28 114014].wav on instrumental channel with length 8727
+[2022-02-28 11:43:16,383] : Looping
+[2022-02-28 11:43:18,943] : Exiting Stem Player
+[2022-02-28 11:43:26,374] : Initialized Stem Player
+[2022-02-28 11:43:26,447] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 11:43:31,236] : Set Lin-Manuel Miranda - We Don't Talk About Bruno (From 'Encanto'_Instrumental_Audio Only) [2022-02-28 114006]-1.wav on instrumental channel
+[2022-02-28 11:43:32,304] : Playing ./sounds/instrumental/Lin-Manuel Miranda - We Don't Talk About Bruno (From 'Encanto'_Instrumental_Audio Only) [2022-02-28 114006]-1.wav on instrumental channel with length 9320
+[2022-02-28 11:43:36,408] : Set Todo De Ti lead melody [2022-02-28 114014].wav on instrumental channel
+[2022-02-28 11:43:37,145] : Playing ./sounds/instrumental/Todo De Ti lead melody [2022-02-28 114014].wav on instrumental channel with length 8727
+[2022-02-28 11:43:45,723] : Playing ./sounds/instrumental/Todo De Ti lead melody [2022-02-28 114014].wav on instrumental channel with length 8727
+[2022-02-28 11:43:45,723] : Looping
+[2022-02-28 11:43:47,621] : Exiting Stem Player
+[2022-02-28 11:43:55,501] : Initialized Stem Player
+[2022-02-28 11:43:55,581] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 11:43:58,383] : Set Where To [2022-02-28 114009].wav on instrumental channel
+[2022-02-28 11:44:01,914] : Set Todo De Ti lead melody [2022-02-28 114014].wav on instrumental channel
+[2022-02-28 11:44:03,069] : Playing ./sounds/instrumental/Todo De Ti lead melody [2022-02-28 114014].wav on instrumental channel with length 8727
+[2022-02-28 11:44:11,747] : Playing ./sounds/instrumental/Todo De Ti lead melody [2022-02-28 114014].wav on instrumental channel with length 8727
+[2022-02-28 11:44:11,748] : Looping
+[2022-02-28 11:44:27,345] : Initialized Stem Player
+[2022-02-28 11:44:27,411] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 11:44:30,792] : Set Todo De Ti lead melody [2022-02-28 114014].wav on instrumental channel
+[2022-02-28 11:44:31,756] : Playing ./sounds/instrumental/Todo De Ti lead melody [2022-02-28 114014].wav on instrumental channel with length 8727
+[2022-02-28 11:44:40,486] : Playing ./sounds/instrumental/Todo De Ti lead melody [2022-02-28 114014].wav on instrumental channel with length 8727
+[2022-02-28 11:44:40,488] : Looping
+[2022-02-28 11:44:47,967] : Set I Built a BASS Out of my YouTube Gold Play Button [2022-02-28 114014].wav on instrumental channel
+[2022-02-28 11:44:48,843] : Playing ./sounds/instrumental/I Built a BASS Out of my YouTube Gold Play Button [2022-02-28 114014].wav on instrumental channel with length 7804
+[2022-02-28 11:44:56,651] : Playing ./sounds/instrumental/I Built a BASS Out of my YouTube Gold Play Button [2022-02-28 114014].wav on instrumental channel with length 7804
+[2022-02-28 11:44:56,652] : Looping
+[2022-02-28 11:44:57,885] : Exiting Stem Player
+[2022-02-28 11:55:58,517] : Initialized Stem Player
+[2022-02-28 11:55:58,580] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 11:56:01,124] : Set Todo De Ti lead melody (Freeze) [2022-02-28 114656].wav on instrumental channel
+[2022-02-28 11:56:02,567] : Play/Pause - current state is stopped, so now replaying all loops
+[2022-02-28 11:56:02,567] : Playing ./sounds/instrumental/Todo De Ti lead melody (Freeze) [2022-02-28 114656].wav on instrumental channel with length 8727
+[2022-02-28 11:56:06,439] : Set TVA [2022-02-28 114009].wav on melody channel
+[2022-02-28 11:56:11,014] : Playing ./sounds/instrumental/Todo De Ti lead melody (Freeze) [2022-02-28 114656].wav on instrumental channel with length 8727
+[2022-02-28 11:56:11,014] : Playing ./sounds/melody/TVA [2022-02-28 114009].wav on melody channel with length 1636
+[2022-02-28 11:56:12,653] : Playing ./sounds/melody/TVA [2022-02-28 114009].wav on melody channel with length 1636
+[2022-02-28 11:56:12,654] : Playing ./sounds/instrumental/Todo De Ti lead melody (Freeze) [2022-02-28 114656].wav on instrumental channel with length 8727
+[2022-02-28 11:56:12,654] : Looping
+[2022-02-28 11:56:14,290] : Playing ./sounds/instrumental/Todo De Ti lead melody (Freeze) [2022-02-28 114656].wav on instrumental channel with length 8727
+[2022-02-28 11:56:14,290] : Playing ./sounds/melody/TVA [2022-02-28 114009].wav on melody channel with length 1636
+[2022-02-28 11:56:14,291] : Looping
+[2022-02-28 11:56:15,931] : Playing ./sounds/instrumental/Todo De Ti lead melody (Freeze) [2022-02-28 114656].wav on instrumental channel with length 8727
+[2022-02-28 11:56:15,932] : Playing ./sounds/melody/TVA [2022-02-28 114009].wav on melody channel with length 1636
+[2022-02-28 11:56:15,932] : Looping
+[2022-02-28 11:56:17,571] : Playing ./sounds/instrumental/Todo De Ti lead melody (Freeze) [2022-02-28 114656].wav on instrumental channel with length 8727
+[2022-02-28 11:56:17,571] : Playing ./sounds/melody/TVA [2022-02-28 114009].wav on melody channel with length 1636
+[2022-02-28 11:56:17,571] : Looping
+[2022-02-28 11:56:17,896] : Set TVA [2022-02-28 114008].wav on melody channel
+[2022-02-28 11:56:18,846] : Playing ./sounds/instrumental/Todo De Ti lead melody (Freeze) [2022-02-28 114656].wav on instrumental channel with length 8727
+[2022-02-28 11:56:18,846] : Playing ./sounds/melody/TVA [2022-02-28 114008].wav on melody channel with length 1317
+[2022-02-28 11:56:20,168] : Playing ./sounds/instrumental/Todo De Ti lead melody (Freeze) [2022-02-28 114656].wav on instrumental channel with length 8727
+[2022-02-28 11:56:20,169] : Playing ./sounds/melody/TVA [2022-02-28 114008].wav on melody channel with length 1317
+[2022-02-28 11:56:20,169] : Looping
+[2022-02-28 11:56:21,379] : Playing ./sounds/melody/TVA [2022-02-28 114008].wav on melody channel with length 1317
+[2022-02-28 11:56:21,380] : Playing ./sounds/instrumental/Todo De Ti lead melody (Freeze) [2022-02-28 114656].wav on instrumental channel with length 8727
+[2022-02-28 11:56:23,299] : Stopped playback
+[2022-02-28 11:56:46,517] : Set Tim Berg - Bromance (Aviciis Arena Mix) (Official Video HD) [2022-02-28 114008].wav on melody channel
+[2022-02-28 11:56:50,338] : Exiting Stem Player
+[2022-02-28 11:57:10,575] : Initialized Stem Player
+[2022-02-28 11:57:10,635] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 11:57:13,007] : Set Roses (feat. ROZES) (Official Instrumental) - The Chainsmokers (Freeze) [2022-02-28 115310].wav on instrumental channel
+[2022-02-28 11:57:14,546] : Play/Pause - current state is stopped, so now replaying all loops
+[2022-02-28 11:57:14,546] : Playing ./sounds/instrumental/Roses (feat. ROZES) (Official Instrumental) - The Chainsmokers (Freeze) [2022-02-28 115310].wav on instrumental channel with length 8727
+[2022-02-28 11:57:17,797] : Set My Universe (Instrumental) (Freeze) [2022-02-28 115309].wav on melody channel
+[2022-02-28 11:57:18,999] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 11:57:21,908] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 11:57:23,276] : Playing ./sounds/melody/My Universe (Instrumental) (Freeze) [2022-02-28 115309].wav on melody channel with length 8727
+[2022-02-28 11:57:23,276] : Playing ./sounds/instrumental/Roses (feat. ROZES) (Official Instrumental) - The Chainsmokers (Freeze) [2022-02-28 115310].wav on instrumental channel with length 8727
+[2022-02-28 11:57:23,277] : Looping
+[2022-02-28 11:57:32,008] : Playing ./sounds/instrumental/Roses (feat. ROZES) (Official Instrumental) - The Chainsmokers (Freeze) [2022-02-28 115310].wav on instrumental channel with length 8727
+[2022-02-28 11:57:32,008] : Playing ./sounds/melody/My Universe (Instrumental) (Freeze) [2022-02-28 115309].wav on melody channel with length 8727
+[2022-02-28 11:57:32,008] : Looping
+[2022-02-28 11:57:32,850] : Set Vocal Synth Lead (Freeze) [2022-02-28 115316].wav on melody channel
+[2022-02-28 11:57:40,765] : Set Lorne Balfe - Red Rising (From 'Black Widow'_Audio Only) (Freeze) [2022-02-28 115318].wav on vocals channel
+[2022-02-28 11:57:40,766] : Playing ./sounds/instrumental/Roses (feat. ROZES) (Official Instrumental) - The Chainsmokers (Freeze) [2022-02-28 115310].wav on instrumental channel with length 8727
+[2022-02-28 11:57:40,766] : Playing ./sounds/melody/Vocal Synth Lead (Freeze) [2022-02-28 115316].wav on melody channel with length 8727
+[2022-02-28 11:57:40,767] : Playing ./sounds/vocals/Lorne Balfe - Red Rising (From 'Black Widow'_Audio Only) (Freeze) [2022-02-28 115318].wav on vocals channel with length 8727
+[2022-02-28 11:57:40,767] : Looping
+[2022-02-28 11:57:49,498] : Playing ./sounds/instrumental/Roses (feat. ROZES) (Official Instrumental) - The Chainsmokers (Freeze) [2022-02-28 115310].wav on instrumental channel with length 8727
+[2022-02-28 11:57:49,498] : Playing ./sounds/melody/Vocal Synth Lead (Freeze) [2022-02-28 115316].wav on melody channel with length 8727
+[2022-02-28 11:57:49,498] : Playing ./sounds/vocals/Lorne Balfe - Red Rising (From 'Black Widow'_Audio Only) (Freeze) [2022-02-28 115318].wav on vocals channel with length 8727
+[2022-02-28 11:57:49,499] : Looping
+[2022-02-28 11:57:58,235] : Set The Chainsmokers - All We Know ft. Phoebe Ryan (Official Instrumental) (Freeze) [2022-02-28 114640].wav on vocals channel
+[2022-02-28 11:57:58,236] : Playing ./sounds/instrumental/Roses (feat. ROZES) (Official Instrumental) - The Chainsmokers (Freeze) [2022-02-28 115310].wav on instrumental channel with length 8727
+[2022-02-28 11:57:58,236] : Playing ./sounds/melody/Vocal Synth Lead (Freeze) [2022-02-28 115316].wav on melody channel with length 8727
+[2022-02-28 11:57:58,236] : Playing ./sounds/vocals/The Chainsmokers - All We Know ft. Phoebe Ryan (Official Instrumental) (Freeze) [2022-02-28 114640].wav on vocals channel with length 8727
+[2022-02-28 11:57:58,237] : Looping
+[2022-02-28 11:58:06,917] : Set Megan Thee Stallion - Thot Shit (Instrumental) (Freeze) [2022-02-28 115314].wav on melody channel
+[2022-02-28 11:58:06,964] : Playing ./sounds/instrumental/Roses (feat. ROZES) (Official Instrumental) - The Chainsmokers (Freeze) [2022-02-28 115310].wav on instrumental channel with length 8727
+[2022-02-28 11:58:06,965] : Playing ./sounds/melody/Megan Thee Stallion - Thot Shit (Instrumental) (Freeze) [2022-02-28 115314].wav on melody channel with length 8727
+[2022-02-28 11:58:06,965] : Playing ./sounds/vocals/The Chainsmokers - All We Know ft. Phoebe Ryan (Official Instrumental) (Freeze) [2022-02-28 114640].wav on vocals channel with length 8727
+[2022-02-28 11:58:06,966] : Looping
+[2022-02-28 11:58:13,666] : Set I Built a BASS Out of my YouTube Gold Play Button (Freeze) [2022-02-28 115317].wav on vocals channel
+[2022-02-28 11:58:15,695] : Playing ./sounds/instrumental/Roses (feat. ROZES) (Official Instrumental) - The Chainsmokers (Freeze) [2022-02-28 115310].wav on instrumental channel with length 8727
+[2022-02-28 11:58:15,695] : Playing ./sounds/melody/Megan Thee Stallion - Thot Shit (Instrumental) (Freeze) [2022-02-28 115314].wav on melody channel with length 8727
+[2022-02-28 11:58:15,696] : Playing ./sounds/vocals/I Built a BASS Out of my YouTube Gold Play Button (Freeze) [2022-02-28 115317].wav on vocals channel with length 8727
+[2022-02-28 11:58:15,697] : Looping
+[2022-02-28 11:58:24,468] : Set Kanye West - Runaway (Instrumental) (Freeze) [2022-02-28 114645].wav on instrumental channel
+[2022-02-28 11:58:24,469] : Playing ./sounds/instrumental/Kanye West - Runaway (Instrumental) (Freeze) [2022-02-28 114645].wav on instrumental channel with length 8727
+[2022-02-28 11:58:24,469] : Playing ./sounds/melody/Megan Thee Stallion - Thot Shit (Instrumental) (Freeze) [2022-02-28 115314].wav on melody channel with length 8727
+[2022-02-28 11:58:24,469] : Playing ./sounds/vocals/I Built a BASS Out of my YouTube Gold Play Button (Freeze) [2022-02-28 115317].wav on vocals channel with length 8727
+[2022-02-28 11:58:24,470] : Looping
+[2022-02-28 11:58:33,197] : Playing ./sounds/instrumental/Kanye West - Runaway (Instrumental) (Freeze) [2022-02-28 114645].wav on instrumental channel with length 8727
+[2022-02-28 11:58:33,197] : Playing ./sounds/melody/Megan Thee Stallion - Thot Shit (Instrumental) (Freeze) [2022-02-28 115314].wav on melody channel with length 8727
+[2022-02-28 11:58:33,197] : Playing ./sounds/vocals/I Built a BASS Out of my YouTube Gold Play Button (Freeze) [2022-02-28 115317].wav on vocals channel with length 8727
+[2022-02-28 11:58:33,198] : Looping
+[2022-02-28 11:58:33,271] : Set Coldplay - Hymn For The Weekend Instrumental (Freeze) [2022-02-28 115314]-1.wav on vocals channel
+[2022-02-28 11:58:35,877] : Playing ./sounds/instrumental/Kanye West - Runaway (Instrumental) (Freeze) [2022-02-28 114645].wav on instrumental channel with length 8727
+[2022-02-28 11:58:35,877] : Playing ./sounds/melody/Megan Thee Stallion - Thot Shit (Instrumental) (Freeze) [2022-02-28 115314].wav on melody channel with length 8727
+[2022-02-28 11:58:35,879] : Playing ./sounds/vocals/Coldplay - Hymn For The Weekend Instrumental (Freeze) [2022-02-28 115314]-1.wav on vocals channel with length 8727
+[2022-02-28 11:58:38,786] : Stopped playback
+[2022-02-28 11:58:38,995] : Stopped playback
+[2022-02-28 11:58:40,917] : Exiting Stem Player
+[2022-02-28 14:07:01,979] : Initialized Stem Player
+[2022-02-28 14:07:02,041] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:07:47,153] : Hit Key 1
+[2022-02-28 14:07:47,180] : Triggered sample Roast Turkey.wav
+[2022-02-28 14:07:55,298] : Initialized Stem Player
+[2022-02-28 14:07:55,375] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:08:10,248] : Hit Key 5
+[2022-02-28 14:08:10,295] : Triggered sample Black Panther Costume Design.wav
+[2022-02-28 14:08:10,574] : Hit Key 0
+[2022-02-28 14:08:10,602] : Triggered sample Doctor Strange.wav
+[2022-02-28 14:08:16,055] : Initialized Stem Player
+[2022-02-28 14:08:16,123] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:08:19,345] : Exiting Stem Player
+[2022-02-28 14:08:31,692] : Initialized Stem Player
+[2022-02-28 14:08:31,767] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:08:41,453] : Hit Key 3
+[2022-02-28 14:08:41,471] : Triggered sample The Licc.wav
+[2022-02-28 14:08:41,915] : Hit Key 0
+[2022-02-28 14:08:41,948] : Triggered sample Doctor Strange.wav
+[2022-02-28 14:08:53,924] : Initialized Stem Player
+[2022-02-28 14:08:53,984] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:09:03,210] : Hit Key 8
+[2022-02-28 14:09:03,230] : Triggered sample Grammarly.wav
+[2022-02-28 14:09:07,451] : Hit Key 2
+[2022-02-28 14:09:07,465] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:09:13,137] : Initialized Stem Player
+[2022-02-28 14:09:13,205] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:09:18,202] : Exiting Stem Player
+[2022-02-28 14:09:28,124] : Initialized Stem Player
+[2022-02-28 14:09:28,191] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:09:35,102] : Hit Key 1
+[2022-02-28 14:09:35,126] : Triggered sample Roast Turkey.wav
+[2022-02-28 14:09:37,891] : Hit Key 2
+[2022-02-28 14:09:37,906] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:09:40,175] : Hit Key 3
+[2022-02-28 14:09:40,185] : Triggered sample The Licc.wav
+[2022-02-28 14:09:42,132] : Hit Key 4
+[2022-02-28 14:09:42,145] : Triggered sample I Speak ABC (Shang-Chi).wav
+[2022-02-28 14:09:44,517] : Hit Key 5
+[2022-02-28 14:09:44,561] : Triggered sample Black Panther Costume Design.wav
+[2022-02-28 14:09:46,790] : Hit Key 6
+[2022-02-28 14:09:46,832] : Triggered sample Neighbours enrich each other.wav
+[2022-02-28 14:09:49,411] : Hit Key 7
+[2022-02-28 14:09:49,418] : Triggered sample Look Atcha.wav
+[2022-02-28 14:09:51,008] : Hit Key 6
+[2022-02-28 14:09:51,045] : Triggered sample Neighbours enrich each other.wav
+[2022-02-28 14:09:52,021] : Hit Key 5
+[2022-02-28 14:09:52,077] : Triggered sample Black Panther Costume Design.wav
+[2022-02-28 14:09:53,022] : Hit Key 6
+[2022-02-28 14:09:53,065] : Triggered sample Neighbours enrich each other.wav
+[2022-02-28 14:09:53,956] : Hit Key 7
+[2022-02-28 14:09:53,960] : Triggered sample Look Atcha.wav
+[2022-02-28 14:09:54,912] : Hit Key 8
+[2022-02-28 14:09:54,923] : Triggered sample Grammarly.wav
+[2022-02-28 14:09:57,173] : Hit Key 9
+[2022-02-28 14:09:57,185] : Triggered sample Russian Warship.wav
+[2022-02-28 14:09:59,580] : Hit Key 0
+[2022-02-28 14:09:59,616] : Triggered sample Doctor Strange.wav
+[2022-02-28 14:10:03,473] : Hit Key q
+[2022-02-28 14:10:03,497] : Triggered sample MetaVerse.wav
+[2022-02-28 14:10:07,916] : Hit Key w
+[2022-02-28 14:10:07,929] : Triggered sample Light Switch (Charlie Puth).wav
+[2022-02-28 14:10:10,549] : Hit Key e
+[2022-02-28 14:10:10,570] : Triggered sample How can a culture be hated.wav
+[2022-02-28 14:10:28,781] : Exiting Stem Player
+[2022-02-28 14:11:10,516] : Initialized Stem Player
+[2022-02-28 14:11:10,578] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:11:11,317] : Play/Pause - current state is stopped, so now replaying all loops
+[2022-02-28 14:11:11,318] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:11,319] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:11,319] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:11,319] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:11,319] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:11,320] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:11,320] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:11,320] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:11,320] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:11,320] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:11,320] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:11,320] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:11,320] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:11,320] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:11,320] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:13,410] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:13,410] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:13,410] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:13,410] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:13,410] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:13,410] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:13,410] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:13,411] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:13,411] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:13,411] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:13,411] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:13,411] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:13,411] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:13,411] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:13,411] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:13,412] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:17,381] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:17,381] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:17,381] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:17,382] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:17,382] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:17,382] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:17,382] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:17,382] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:17,382] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:17,382] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:17,382] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:17,382] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:17,383] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:17,383] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:17,383] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:17,383] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:21,442] : Hit Key 1
+[2022-02-28 14:11:21,462] : Triggered sample Roast Turkey.wav
+[2022-02-28 14:11:22,094] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:22,095] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:22,095] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:22,095] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:22,095] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:22,095] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:22,096] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:22,096] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:22,096] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:22,096] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:22,096] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:22,096] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:22,096] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:22,096] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:22,097] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:22,097] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:23,602] : Hit Key 2
+[2022-02-28 14:11:23,613] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:11:24,772] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:24,772] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:24,773] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:24,773] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:24,773] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:24,773] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:24,773] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:24,773] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:24,773] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:24,773] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:24,773] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:24,774] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:24,774] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:24,774] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:24,774] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:24,774] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:25,717] : Hit Key 3
+[2022-02-28 14:11:25,725] : Triggered sample The Licc.wav
+[2022-02-28 14:11:26,459] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:26,460] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:26,460] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:26,460] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:26,460] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:26,460] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:26,460] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:26,460] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:26,460] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:26,460] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:26,460] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:26,460] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:26,460] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:26,460] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:26,461] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:26,461] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:27,213] : Hit Key 3
+[2022-02-28 14:11:27,220] : Triggered sample The Licc.wav
+[2022-02-28 14:11:27,416] : Hit Key 4
+[2022-02-28 14:11:27,427] : Triggered sample I Speak ABC (Shang-Chi).wav
+[2022-02-28 14:11:28,361] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:28,361] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:28,362] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:28,362] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:28,362] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:28,362] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:28,362] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:28,362] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:28,362] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:28,362] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:28,362] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:28,362] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:28,362] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:28,362] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:28,363] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:28,363] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:29,485] : Hit Key 5
+[2022-02-28 14:11:29,524] : Triggered sample Black Panther Costume Design.wav
+[2022-02-28 14:11:30,701] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:30,701] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:30,701] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:30,701] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:30,701] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:30,701] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:30,701] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:30,701] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:30,702] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:30,702] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:30,702] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:30,702] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:30,702] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:30,702] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:30,702] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:30,702] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:31,297] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:31,297] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:31,297] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:31,297] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:31,297] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:31,297] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:31,297] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:31,298] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:31,298] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:31,298] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:31,298] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:31,298] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:31,298] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:31,298] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:31,298] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:31,298] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:32,309] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:32,309] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:32,309] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:32,310] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:32,310] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:32,310] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:32,310] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:32,310] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:32,310] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:32,310] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:32,310] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:32,310] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:32,310] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:32,310] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:32,310] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:32,310] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:32,894] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:32,894] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:32,894] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:32,895] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:32,895] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:32,895] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:32,895] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:32,895] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:32,895] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:32,895] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:32,895] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:32,895] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:32,895] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:32,895] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:32,895] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:32,895] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:33,423] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:33,423] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:33,423] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:33,423] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:33,423] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:33,424] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:33,424] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:33,424] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:33,424] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:33,424] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:33,424] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:33,424] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:33,424] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:33,424] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:33,424] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:33,424] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:34,797] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:36,655] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:36,687] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:36,688] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:36,688] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:36,688] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:36,688] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:36,688] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:36,689] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:36,689] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:36,689] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:36,689] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:36,689] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:36,689] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:36,689] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:36,690] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:36,690] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:11:36,690] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:11:36,997] : Exiting Stem Player
+[2022-02-28 14:12:26,034] : Initialized Stem Player
+[2022-02-28 14:12:26,097] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:12:27,004] : Hit Key 1
+[2022-02-28 14:12:27,022] : Triggered sample Roast Turkey.wav
+[2022-02-28 14:12:27,600] : Play/Pause - current state is stopped, so now replaying all loops
+[2022-02-28 14:12:35,542] : Hit Key 4
+[2022-02-28 14:12:35,553] : Triggered sample I Speak ABC (Shang-Chi).wav
+[2022-02-28 14:12:36,332] : Looping
+[2022-02-28 14:12:37,139] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:12:38,219] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:12:38,782] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:12:39,614] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:12:40,874] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:12:41,436] : Hit Key 5
+[2022-02-28 14:12:41,473] : Triggered sample Black Panther Costume Design.wav
+[2022-02-28 14:12:41,932] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:12:43,237] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:12:44,834] : Hit Key 5
+[2022-02-28 14:12:44,869] : Triggered sample Black Panther Costume Design.wav
+[2022-02-28 14:12:45,261] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:12:46,656] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:12:47,512] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:12:47,883] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:12:48,468] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:12:48,749] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:12:49,356] : Hit Key 6
+[2022-02-28 14:12:49,390] : Triggered sample Neighbours enrich each other.wav
+[2022-02-28 14:12:50,695] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:12:51,831] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:12:55,777] : Exiting Stem Player
+[2022-02-28 14:13:22,791] : Initialized Stem Player
+[2022-02-28 14:13:22,857] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:13:24,088] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:24,566] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:24,685] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:25,219] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:25,334] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:25,725] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:25,835] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:26,265] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:26,375] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:27,007] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:27,117] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:27,627] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:27,737] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:28,043] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:28,076] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:28,110] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:28,144] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:28,154] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:28,178] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:28,212] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:28,245] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:28,268] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:28,279] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:28,312] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:28,346] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:28,379] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:28,380] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:28,413] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:28,446] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:28,493] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:28,602] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:28,711] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:29,156] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:29,267] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:30,214] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:30,324] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:31,504] : Exiting Stem Player
+[2022-02-28 14:13:46,706] : Initialized Stem Player
+[2022-02-28 14:13:46,779] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:13:48,516] : Play/Pause - current state is stopped, so now replaying all loops
+[2022-02-28 14:13:48,518] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:48,518] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:48,518] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:48,518] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:48,519] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:48,519] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:48,519] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:48,519] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:48,519] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:48,519] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:48,519] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:48,519] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:48,519] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:48,519] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:48,520] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:50,370] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:51,040] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:51,104] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:51,104] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:51,104] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:51,104] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:51,104] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:51,104] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:51,104] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:51,105] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:51,105] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:51,105] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:51,105] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:51,106] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:51,106] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:51,106] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:51,106] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:51,106] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:51,699] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:13:51,701] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:51,701] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:51,701] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:51,701] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:51,701] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:51,701] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:51,702] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:51,702] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:51,702] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:51,702] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:51,702] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:51,702] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:51,702] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:51,703] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:51,703] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:13:51,703] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:13:53,069] : Exiting Stem Player
+[2022-02-28 14:13:59,940] : Initialized Stem Player
+[2022-02-28 14:14:00,018] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:14:00,885] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:14:02,062] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:14:03,739] : Play/Pause - current state is paused, so now unpausing
+[2022-02-28 14:14:04,672] : Play/Pause - current state is playing, so now pausing
+[2022-02-28 14:14:08,460] : Triggered sample The Licc.wav
+[2022-02-28 14:14:10,523] : Set Your Power guitar (Billie Eilish).wav on melody channel
+[2022-02-28 14:14:13,605] : Playing ./sounds/melody/Your Power guitar (Billie Eilish).wav on melody channel with length 8727
+[2022-02-28 14:14:19,605] : Triggered sample Look Atcha.wav
+[2022-02-28 14:14:22,333] : Playing ./sounds/melody/Your Power guitar (Billie Eilish).wav on melody channel with length 8727
+[2022-02-28 14:14:22,334] : Looping
+[2022-02-28 14:14:22,432] : Triggered sample Grammarly.wav
+[2022-02-28 14:14:26,004] : Triggered sample Look Atcha.wav
+[2022-02-28 14:14:28,120] : Triggered sample Look Atcha.wav
+[2022-02-28 14:14:30,326] : Triggered sample Look Atcha.wav
+[2022-02-28 14:14:31,065] : Playing ./sounds/melody/Your Power guitar (Billie Eilish).wav on melody channel with length 8727
+[2022-02-28 14:14:31,066] : Looping
+[2022-02-28 14:14:32,382] : Triggered sample Look Atcha.wav
+[2022-02-28 14:14:35,264] : Set Thor Ragnarok.wav on vocals channel
+[2022-02-28 14:14:39,793] : Playing ./sounds/melody/Your Power guitar (Billie Eilish).wav on melody channel with length 8727
+[2022-02-28 14:14:39,793] : Playing ./sounds/vocals/Thor Ragnarok.wav on vocals channel with length 8727
+[2022-02-28 14:14:39,793] : Looping
+[2022-02-28 14:14:48,522] : Playing ./sounds/melody/Your Power guitar (Billie Eilish).wav on melody channel with length 8727
+[2022-02-28 14:14:48,522] : Playing ./sounds/vocals/Thor Ragnarok.wav on vocals channel with length 8727
+[2022-02-28 14:14:48,522] : Looping
+[2022-02-28 14:14:49,080] : Set We Don't Talk About Bruno.wav on instrumental channel
+[2022-02-28 14:14:54,072] : Set My Universe pad (Coldplay).wav on instrumental channel
+[2022-02-28 14:14:57,251] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:14:57,251] : Playing ./sounds/melody/Your Power guitar (Billie Eilish).wav on melody channel with length 8727
+[2022-02-28 14:14:57,251] : Playing ./sounds/vocals/Thor Ragnarok.wav on vocals channel with length 8727
+[2022-02-28 14:14:57,252] : Looping
+[2022-02-28 14:15:05,572] : Set My Universe instrumental (Coldplay).wav on instrumental channel
+[2022-02-28 14:15:05,978] : Playing ./sounds/instrumental/My Universe instrumental (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:15:05,978] : Playing ./sounds/melody/Your Power guitar (Billie Eilish).wav on melody channel with length 8727
+[2022-02-28 14:15:05,978] : Playing ./sounds/vocals/Thor Ragnarok.wav on vocals channel with length 8727
+[2022-02-28 14:15:05,979] : Looping
+[2022-02-28 14:15:14,590] : Set The sound of falling sand (Encanto).wav on instrumental channel
+[2022-02-28 14:15:14,707] : Playing ./sounds/instrumental/The sound of falling sand (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:15:14,708] : Playing ./sounds/melody/Your Power guitar (Billie Eilish).wav on melody channel with length 8727
+[2022-02-28 14:15:14,708] : Playing ./sounds/vocals/Thor Ragnarok.wav on vocals channel with length 8727
+[2022-02-28 14:15:14,708] : Looping
+[2022-02-28 14:15:20,708] : Set Dancing In My Head bells (Avicii).wav on vocals channel
+[2022-02-28 14:15:23,436] : Playing ./sounds/instrumental/The sound of falling sand (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:15:23,437] : Playing ./sounds/melody/Your Power guitar (Billie Eilish).wav on melody channel with length 8727
+[2022-02-28 14:15:23,437] : Playing ./sounds/vocals/Dancing In My Head bells (Avicii).wav on vocals channel with length 8727
+[2022-02-28 14:15:23,437] : Looping
+[2022-02-28 14:15:26,214] : Set Kanye (Chainsmokers).wav on vocals channel
+[2022-02-28 14:15:32,169] : Playing ./sounds/instrumental/The sound of falling sand (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:15:32,169] : Playing ./sounds/melody/Your Power guitar (Billie Eilish).wav on melody channel with length 8727
+[2022-02-28 14:15:32,171] : Playing ./sounds/vocals/Kanye (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:15:32,171] : Looping
+[2022-02-28 14:15:40,898] : Playing ./sounds/melody/Your Power guitar (Billie Eilish).wav on melody channel with length 8727
+[2022-02-28 14:15:40,898] : Playing ./sounds/instrumental/The sound of falling sand (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:15:40,898] : Playing ./sounds/vocals/Kanye (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:15:40,898] : Looping
+[2022-02-28 14:15:42,096] : Triggered sample MetaVerse.wav
+[2022-02-28 14:15:49,471] : Stopped playback
+[2022-02-28 14:16:14,048] : Initialized Stem Player
+[2022-02-28 14:16:14,108] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:16:19,504] : Set He said my goldfish would die (Encanto).wav on instrumental channel
+[2022-02-28 14:16:21,060] : Play/Pause - current state is stopped, so now replaying all loops
+[2022-02-28 14:16:21,060] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:16:24,954] : Set Kalimba.wav on melody channel
+[2022-02-28 14:16:29,791] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:16:29,791] : Playing ./sounds/melody/Kalimba.wav on melody channel with length 8727
+[2022-02-28 14:16:29,792] : Looping
+[2022-02-28 14:16:31,864] : Set Shang-Chi harp.wav on melody channel
+[2022-02-28 14:16:38,534] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:16:38,560] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:16:38,561] : Looping
+[2022-02-28 14:16:45,955] : Set I Built a BASS Out of my YouTube Gold Play Button (Davie504).wav on melody channel
+[2022-02-28 14:16:47,292] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:16:47,292] : Playing ./sounds/melody/I Built a BASS Out of my YouTube Gold Play Button (Davie504).wav on melody channel with length 8727
+[2022-02-28 14:16:47,292] : Looping
+[2022-02-28 14:16:55,952] : Set Bromance (Avicii).wav on vocals channel
+[2022-02-28 14:16:56,020] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:16:56,021] : Playing ./sounds/melody/I Built a BASS Out of my YouTube Gold Play Button (Davie504).wav on melody channel with length 8727
+[2022-02-28 14:16:56,021] : Playing ./sounds/vocals/Bromance (Avicii).wav on vocals channel with length 8727
+[2022-02-28 14:16:56,021] : Looping
+[2022-02-28 14:16:58,035] : Set Chumbawumba.wav on vocals channel
+[2022-02-28 14:16:58,118] : Set Because we come from different sides (BTS).wav on vocals channel
+[2022-02-28 14:16:58,238] : Set Runaway piano (Kanye West).wav on vocals channel
+[2022-02-28 14:17:00,043] : Set Life could pass me by (Avicii).wav on vocals channel
+[2022-02-28 14:17:04,749] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:17:04,750] : Playing ./sounds/melody/I Built a BASS Out of my YouTube Gold Play Button (Davie504).wav on melody channel with length 8727
+[2022-02-28 14:17:04,750] : Playing ./sounds/vocals/Life could pass me by (Avicii).wav on vocals channel with length 8727
+[2022-02-28 14:17:04,750] : Looping
+[2022-02-28 14:17:10,096] : Set Roses vocal synth (Chainsmokers).wav on vocals channel
+[2022-02-28 14:17:14,566] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:17:14,566] : Playing ./sounds/melody/I Built a BASS Out of my YouTube Gold Play Button (Davie504).wav on melody channel with length 8727
+[2022-02-28 14:17:14,566] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:17:14,567] : Looping
+[2022-02-28 14:17:23,298] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:17:23,299] : Playing ./sounds/melody/I Built a BASS Out of my YouTube Gold Play Button (Davie504).wav on melody channel with length 8727
+[2022-02-28 14:17:23,299] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:17:23,299] : Looping
+[2022-02-28 14:17:31,534] : Set Without You guitar (Avicii).wav on melody channel
+[2022-02-28 14:17:32,027] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:17:32,029] : Playing ./sounds/melody/Without You guitar (Avicii).wav on melody channel with length 8727
+[2022-02-28 14:17:32,029] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:17:32,029] : Looping
+[2022-02-28 14:17:37,639] : Set Paris chords (Chainsmokers).wav on melody channel
+[2022-02-28 14:17:40,758] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:17:40,758] : Playing ./sounds/melody/Paris chords (Chainsmokers).wav on melody channel with length 8727
+[2022-02-28 14:17:40,758] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:17:40,758] : Looping
+[2022-02-28 14:17:49,456] : Set Shang-Chi harp.wav on melody channel
+[2022-02-28 14:17:49,488] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:17:49,490] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:17:49,490] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:17:49,490] : Looping
+[2022-02-28 14:17:57,620] : Triggered sample Russian Warship.wav
+[2022-02-28 14:17:58,218] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:17:58,218] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:17:58,218] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:17:58,219] : Looping
+[2022-02-28 14:18:00,288] : Triggered sample Doctor Strange.wav
+[2022-02-28 14:18:06,950] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:18:06,950] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:18:06,950] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:18:06,951] : Looping
+[2022-02-28 14:18:09,245] : Stopped playback
+[2022-02-28 14:18:44,716] : Hit Key t
+[2022-02-28 14:18:44,727] : Triggered sample No clouds allowed in the sky.wav
+[2022-02-28 14:18:50,599] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:18:50,600] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:18:50,600] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:18:50,600] : Looping
+[2022-02-28 14:18:54,094] : Exiting Stem Player
+[2022-02-28 14:19:59,924] : Initialized Stem Player
+[2022-02-28 14:19:59,978] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:21:01,302] : Set He said my goldfish would die (Encanto).wav on instrumental channel
+[2022-02-28 14:21:03,624] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:21:12,357] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:21:12,358] : Looping
+[2022-02-28 14:21:14,614] : Set Roses vocal synth (Chainsmokers).wav on vocals channel
+[2022-02-28 14:21:21,086] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:21:21,086] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:21:21,086] : Looping
+[2022-02-28 14:21:27,797] : Set I Built a BASS Out of my YouTube Gold Play Button (Davie504).wav on melody channel
+[2022-02-28 14:21:29,815] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:21:29,815] : Playing ./sounds/melody/I Built a BASS Out of my YouTube Gold Play Button (Davie504).wav on melody channel with length 8727
+[2022-02-28 14:21:29,815] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:21:29,816] : Looping
+[2022-02-28 14:21:38,545] : Playing ./sounds/melody/I Built a BASS Out of my YouTube Gold Play Button (Davie504).wav on melody channel with length 8727
+[2022-02-28 14:21:38,545] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:21:38,545] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:21:38,545] : Looping
+[2022-02-28 14:21:39,697] : Set Shang-Chi harp.wav on melody channel
+[2022-02-28 14:21:47,275] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:21:47,276] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:21:47,276] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:21:47,276] : Looping
+[2022-02-28 14:21:56,006] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:21:56,006] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:21:56,006] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:21:56,007] : Looping
+[2022-02-28 14:22:04,736] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:22:04,736] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:22:04,736] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:22:04,736] : Looping
+[2022-02-28 14:22:13,464] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:22:13,465] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:22:13,465] : Playing ./sounds/instrumental/He said my goldfish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:22:13,465] : Looping
+[2022-02-28 14:22:19,037] : Set Black Widow brass ensemble.wav on instrumental channel
+[2022-02-28 14:22:22,197] : Playing ./sounds/instrumental/Black Widow brass ensemble.wav on instrumental channel with length 8727
+[2022-02-28 14:22:22,197] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:22:22,197] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:22:22,198] : Looping
+[2022-02-28 14:22:30,927] : Playing ./sounds/instrumental/Black Widow brass ensemble.wav on instrumental channel with length 8727
+[2022-02-28 14:22:30,927] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:22:30,927] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:22:30,928] : Looping
+[2022-02-28 14:22:35,508] : Set My Universe pad (Coldplay).wav on instrumental channel
+[2022-02-28 14:22:39,661] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:22:39,661] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:22:39,661] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:22:39,688] : Looping
+[2022-02-28 14:22:48,389] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:22:48,389] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:22:48,389] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:22:48,389] : Looping
+[2022-02-28 14:22:57,117] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:22:57,117] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:22:57,117] : Playing ./sounds/vocals/Roses vocal synth (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:22:57,118] : Looping
+[2022-02-28 14:23:03,452] : Set Because we come from different sides (BTS).wav on vocals channel
+[2022-02-28 14:23:05,847] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:23:05,847] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:23:05,847] : Playing ./sounds/vocals/Because we come from different sides (BTS).wav on vocals channel with length 8727
+[2022-02-28 14:23:05,848] : Looping
+[2022-02-28 14:23:14,578] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:23:14,578] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:23:14,578] : Playing ./sounds/vocals/Because we come from different sides (BTS).wav on vocals channel with length 8727
+[2022-02-28 14:23:14,579] : Looping
+[2022-02-28 14:23:15,255] : Set Never ending forever (BTS).wav on vocals channel
+[2022-02-28 14:23:22,948] : Set Kanye (Chainsmokers).wav on vocals channel
+[2022-02-28 14:23:23,310] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:23:23,310] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:23:23,311] : Playing ./sounds/vocals/Kanye (Chainsmokers).wav on vocals channel with length 8727
+[2022-02-28 14:23:23,311] : Looping
+[2022-02-28 14:23:31,602] : Set Runaway piano (Kanye West).wav on vocals channel
+[2022-02-28 14:23:32,039] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:23:32,039] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:23:32,041] : Playing ./sounds/vocals/Runaway piano (Kanye West).wav on vocals channel with length 8727
+[2022-02-28 14:23:32,041] : Looping
+[2022-02-28 14:23:40,769] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:23:40,769] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:23:40,770] : Playing ./sounds/vocals/Runaway piano (Kanye West).wav on vocals channel with length 8727
+[2022-02-28 14:23:40,770] : Looping
+[2022-02-28 14:23:43,074] : Set Never ending forever (BTS).wav on vocals channel
+[2022-02-28 14:23:49,500] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:23:49,501] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:23:49,502] : Playing ./sounds/vocals/Never ending forever (BTS).wav on vocals channel with length 8727
+[2022-02-28 14:23:49,503] : Looping
+[2022-02-28 14:23:58,231] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:23:58,232] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:23:58,232] : Playing ./sounds/vocals/Never ending forever (BTS).wav on vocals channel with length 8727
+[2022-02-28 14:23:58,233] : Looping
+[2022-02-28 14:24:05,437] : Set Dancing In My Head bells (Avicii).wav on vocals channel
+[2022-02-28 14:24:06,963] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:24:06,964] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:24:06,965] : Playing ./sounds/vocals/Dancing In My Head bells (Avicii).wav on vocals channel with length 8727
+[2022-02-28 14:24:06,965] : Looping
+[2022-02-28 14:24:15,696] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:24:15,696] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:24:15,696] : Playing ./sounds/vocals/Dancing In My Head bells (Avicii).wav on vocals channel with length 8727
+[2022-02-28 14:24:15,697] : Looping
+[2022-02-28 14:24:19,248] : Stopped playback
+[2022-02-28 14:24:19,459] : Stopped playback
+[2022-02-28 14:24:34,551] : Triggered sample No clouds allowed in the sky.wav
+[2022-02-28 14:24:40,334] : Triggered sample Peacemaker.wav
+[2022-02-28 14:24:41,885] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:24:41,885] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:24:41,885] : Playing ./sounds/vocals/Dancing In My Head bells (Avicii).wav on vocals channel with length 8727
+[2022-02-28 14:24:41,886] : Looping
+[2022-02-28 14:24:46,485] : Triggered sample How can a culture be hated.wav
+[2022-02-28 14:24:50,616] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:24:50,616] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:24:50,617] : Playing ./sounds/vocals/Dancing In My Head bells (Avicii).wav on vocals channel with length 8727
+[2022-02-28 14:24:50,617] : Looping
+[2022-02-28 14:24:51,988] : Triggered sample Russian Warship.wav
+[2022-02-28 14:24:54,329] : Triggered sample Doctor Strange.wav
+[2022-02-28 14:24:59,348] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:24:59,349] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:24:59,349] : Playing ./sounds/vocals/Dancing In My Head bells (Avicii).wav on vocals channel with length 8727
+[2022-02-28 14:24:59,349] : Looping
+[2022-02-28 14:25:00,241] : Triggered sample MetaVerse.wav
+[2022-02-28 14:25:04,824] : Triggered sample Light Switch (Charlie Puth).wav
+[2022-02-28 14:25:07,381] : Triggered sample Grammarly.wav
+[2022-02-28 14:25:08,079] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:25:08,079] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:25:08,080] : Playing ./sounds/vocals/Dancing In My Head bells (Avicii).wav on vocals channel with length 8727
+[2022-02-28 14:25:08,080] : Looping
+[2022-02-28 14:25:10,795] : Triggered sample Look Atcha.wav
+[2022-02-28 14:25:12,371] : Triggered sample Neighbours enrich each other.wav
+[2022-02-28 14:25:16,811] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:25:16,811] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:25:16,812] : Playing ./sounds/vocals/Dancing In My Head bells (Avicii).wav on vocals channel with length 8727
+[2022-02-28 14:25:16,812] : Looping
+[2022-02-28 14:25:22,482] : Triggered sample Black Panther Costume Design.wav
+[2022-02-28 14:25:25,539] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:25:25,540] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:25:25,540] : Playing ./sounds/vocals/Dancing In My Head bells (Avicii).wav on vocals channel with length 8727
+[2022-02-28 14:25:25,541] : Looping
+[2022-02-28 14:25:33,931] : Triggered sample Only pay for what I need.wav
+[2022-02-28 14:25:34,270] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:25:34,271] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:25:34,271] : Playing ./sounds/vocals/Dancing In My Head bells (Avicii).wav on vocals channel with length 8727
+[2022-02-28 14:25:34,271] : Looping
+[2022-02-28 14:25:37,392] : Triggered sample The Licc.wav
+[2022-02-28 14:25:42,999] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:25:43,000] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:25:43,000] : Playing ./sounds/vocals/Dancing In My Head bells (Avicii).wav on vocals channel with length 8727
+[2022-02-28 14:25:43,000] : Looping
+[2022-02-28 14:25:46,211] : Triggered sample The Licc.wav
+[2022-02-28 14:25:51,301] : Triggered sample I Speak ABC (Shang-Chi).wav
+[2022-02-28 14:25:51,732] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:25:51,732] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:25:51,732] : Playing ./sounds/vocals/Dancing In My Head bells (Avicii).wav on vocals channel with length 8727
+[2022-02-28 14:25:51,733] : Looping
+[2022-02-28 14:25:55,645] : Triggered sample Roast Turkey.wav
+[2022-02-28 14:26:00,463] : Playing ./sounds/instrumental/My Universe pad (Coldplay).wav on instrumental channel with length 8727
+[2022-02-28 14:26:00,463] : Playing ./sounds/melody/Shang-Chi harp.wav on melody channel with length 8727
+[2022-02-28 14:26:00,463] : Playing ./sounds/vocals/Dancing In My Head bells (Avicii).wav on vocals channel with length 8727
+[2022-02-28 14:26:00,463] : Looping
+[2022-02-28 14:26:02,204] : Stopped playback
+[2022-02-28 14:28:47,501] : Hit Key t
+[2022-02-28 14:28:47,510] : Triggered sample No clouds allowed in the sky.wav
+[2022-02-28 14:28:47,793] : Hit Key e
+[2022-02-28 14:28:47,817] : Triggered sample How can a culture be hated.wav
+[2022-02-28 14:34:28,224] : Initialized Stem Player
+[2022-02-28 14:34:28,297] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:34:32,531] : Exiting Stem Player
+[2022-02-28 14:34:42,412] : Initialized Stem Player
+[2022-02-28 14:34:42,486] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:34:47,674] : Set Roses (Chainsmokers).wav on instrumental channel
+[2022-02-28 14:34:55,447] : Set Adventure Of A Lifetime (Coldplay).wav on instrumental channel
+[2022-02-28 14:35:00,677] : Set He said that my fish would die (Encanto).wav on instrumental channel
+[2022-02-28 14:35:05,952] : Set Your Power guitar (Billie Eilish).wav on melody channel
+[2022-02-28 14:35:07,052] : Playing ./sounds/melody/Your Power guitar (Billie Eilish).wav on melody channel with length 8727
+[2022-02-28 14:35:07,052] : Playing ./sounds/instrumental/He said that my fish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:35:15,782] : Playing ./sounds/instrumental/He said that my fish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:35:15,783] : Playing ./sounds/melody/Your Power guitar (Billie Eilish).wav on melody channel with length 8727
+[2022-02-28 14:35:15,784] : Looping
+[2022-02-28 14:35:16,029] : Stopped playback
+[2022-02-28 14:35:17,103] : Exiting Stem Player
+[2022-02-28 14:35:56,693] : Initialized Stem Player
+[2022-02-28 14:35:56,760] : This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+[2022-02-28 14:36:04,556] : Set Adventure Of A Lifetime (Coldplay).wav on instrumental channel
+[2022-02-28 14:36:07,034] : Set He told me my fish would die (Encanto).wav on instrumental channel
+[2022-02-28 14:36:10,369] : Triggered sample Roast Turkey.wav
+[2022-02-28 14:36:32,115] : Triggered sample Roast Turkey.wav
+[2022-02-28 14:36:34,770] : Playing ./sounds/instrumental/He told me my fish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:36:42,214] : Triggered sample Light Switch (Charlie Puth).wav
+[2022-02-28 14:36:43,500] : Playing ./sounds/instrumental/He told me my fish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:36:43,500] : Looping
+[2022-02-28 14:36:44,524] : Playing ./sounds/instrumental/He told me my fish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:36:44,703] : Playing ./sounds/instrumental/He told me my fish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:36:46,548] : Stopped playback
+[2022-02-28 14:36:47,761] : Triggered sample Roast Turkey.wav
+[2022-02-28 14:36:50,452] : Playing ./sounds/instrumental/He told me my fish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:36:52,922] : Triggered sample Light Switch (Charlie Puth).wav
+[2022-02-28 14:36:57,028] : Triggered sample The Licc.wav
+[2022-02-28 14:36:59,184] : Playing ./sounds/instrumental/He told me my fish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:36:59,185] : Looping
+[2022-02-28 14:36:59,560] : Triggered sample The Licc.wav
+[2022-02-28 14:37:03,896] : Stopped playback
+[2022-02-28 14:38:24,805] : Hit Key t
+[2022-02-28 14:38:24,818] : Triggered sample No clouds allowed in the sky.wav
+[2022-02-28 14:38:25,098] : Hit Key e
+[2022-02-28 14:38:25,117] : Triggered sample How can a culture be hated.wav
+[2022-02-28 14:38:26,487] : Playing ./sounds/instrumental/He told me my fish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:38:26,487] : Looping
+[2022-02-28 14:38:35,214] : Playing ./sounds/instrumental/He told me my fish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:38:35,214] : Looping
+[2022-02-28 14:38:43,947] : Playing ./sounds/instrumental/He told me my fish would die (Encanto).wav on instrumental channel with length 8727
+[2022-02-28 14:38:43,947] : Looping
+[2022-02-28 14:38:47,139] : Stopped playback
+[2022-02-28 14:38:47,848] : Stopped playback
+[2022-02-28 14:38:48,399] : Stopped playback

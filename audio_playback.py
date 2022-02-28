@@ -28,8 +28,8 @@ class StemPlayer:
                         "melody": {"location": None, "obj": None}, 
                         "instrumental": {"location": None, "obj": None}
                         } 
-        self.loop_length = 18431
-        self.latency = 150
+        self.loop_length = 8727
+        self.latency = 0
 
     def play_pause(self):
 
@@ -67,7 +67,6 @@ class StemPlayer:
         loc = sound["location"]
         if obj is not None:
             self.channels["instrumental"].play(obj)
-            self.loop_length = int(obj.get_length() * 1000)
             logging.info(f"Playing {loc} on instrumental channel with length {self.loop_length}")       
 
     def play_melody(self):
@@ -76,7 +75,6 @@ class StemPlayer:
         loc = sound["location"]
         if obj is not None:
             self.channels["melody"].play(sound["obj"])
-            self.loop_length = int(obj.get_length() * 1000)
             logging.info(f"Playing {loc} on melody channel with length {self.loop_length}")
 
     def play_vocals(self):
@@ -85,7 +83,6 @@ class StemPlayer:
         loc = sound["location"]
         if obj is not None:
             self.channels["vocals"].play(sound["obj"])
-            self.loop_length = int(obj.get_length() * 1000)
             logging.info(f"Playing {loc} on vocals channel with length {self.loop_length}")
 
     def stop_all_playback(self):
@@ -136,6 +133,7 @@ class StemPlayer:
             sound_path = self.sounds_dir + "samples/" + sound
             self.channels["samples"].play(pygame.mixer.Sound(sound_path))
             logging.info(f"Triggered sample {sound}")
+            self.player_state = "playing"
 
 if __name__ == "__main__":
     pass

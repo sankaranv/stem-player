@@ -53,7 +53,7 @@ def melody_volume_changed(event):
     volume = melody_slider.get()
     sp.set_channel_volume("melody", volume)
 
-melody_label = ttk.Label(loop_controls, text="MELODY")
+melody_label = ttk.Label(loop_controls, text="CHORDS/MELODY")
 melody_label.grid(column=1, row=1, sticky='n', padx=5, pady=5)
 melody_slider = ttk.Scale(loop_controls, from_=0, to=1, orient="horizontal", command=melody_volume_changed)
 melody_slider.grid(column=1, row=2, sticky='n', padx=5, pady=5)
@@ -63,7 +63,7 @@ def vocals_volume_changed(event):
     volume = vocals_slider.get()
     sp.set_channel_volume("vocals", volume)
 
-vocals_label = ttk.Label(loop_controls, text="VOCALS")
+vocals_label = ttk.Label(loop_controls, text="KEYS/VOCALS")
 vocals_label.grid(column=2, row=1, sticky='n', padx=5, pady=5)
 vocals_slider = ttk.Scale(loop_controls, from_=0, to=1, orient="horizontal", command=vocals_volume_changed)
 vocals_slider.grid(column=2, row=2, sticky='n', padx=5, pady=5)
@@ -157,7 +157,7 @@ def delay_changed():
     sp.set_latency(latency)
 
 delay_frame = ttk.Frame(big_frame)
-delay_frame.grid(column=1, row=8, sticky='e', pady=50)
+delay_frame.grid(column=1, row=8, sticky='e', pady=10)
 delay_label = ttk.Label(delay_frame, text='Latency (ms)')
 delay_label.grid(column=0, row=0, sticky='e', padx=5, pady = 5)
 delay_value = tk.StringVar(value=sp.latency)
@@ -170,7 +170,7 @@ for idx, sample in enumerate(samples_library.keys()):
     sample_buttons[sample].grid(column = idx % button_grid_size, row = idx // button_grid_size, sticky='nsew', padx=5, pady=5)
 
 root.title("697M Stem Player")
-root.geometry('800x360')
+root.geometry('1120x380')
 root.minsize(400, 180)
 
 running = True
