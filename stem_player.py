@@ -6,6 +6,7 @@ import pygame
 import logging
 import sys
 import os
+from threading import Thread
 
 file_handler = logging.FileHandler(filename='logs/stem_player.log')
 stdout_handler = logging.StreamHandler(sys.stdout)
@@ -29,7 +30,7 @@ play_button = ttk.Button(playback_controls, text=u"Play/Pause", command = sp.pla
 play_button.grid(column=0, row=0, sticky='ew', padx=5)
 stop_button = ttk.Button(playback_controls, text=u"Stop", command = sp.stop_all_playback)
 stop_button.grid(column=0, row=1, sticky='ew', padx=5)
-reset_button = ttk.Button(playback_controls, text=u"Launch Loop", command = sp.replay_all_loops)
+reset_button = ttk.Button(playback_controls, text=u"Restart Loop", command = sp.replay_all_loops)
 reset_button.grid(column=0, row=2, sticky='ew', padx=5)
 
 # First row - labels and sliders
@@ -174,16 +175,22 @@ running = True
 def close_window():
   global running
   running = False  # turn off while loop
-  logging.info("Exiting Stem Player")
+  logging.info(f"Exiting Stem Player")
 
 root.protocol("WM_DELETE_WINDOW", close_window)
 
 # Main event loop
 
-while running:
-    root.update_idletasks()
-    root.update()
+def loop_controller():
+    global running
     for e in pygame.event.get():
         if e.type == pygame.USEREVENT and sp.player_state == "playing":
             sp.replay_all_loops()
             logging.info(f"Looping")
+    if running:
+        root.after(1, loop_controller)
+    else:
+        root.destroy()
+
+root.after(1, loop_controller)
+root.mainloop()

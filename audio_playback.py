@@ -46,7 +46,7 @@ class StemPlayer:
             self.player_state = "paused"
 
     def replay_all_loops(self):
-        pygame.mixer.stop()
+        # pygame.mixer.stop()
         self.player_state = "playing"
         threads = []
         threads.append(Thread(target = self.play_instrumental))
@@ -68,8 +68,7 @@ class StemPlayer:
         if obj is not None:
             self.channels["instrumental"].play(obj)
             self.loop_length = int(obj.get_length() * 1000)
-            logging.info(f"Playing {loc} on instrumental channel with length {self.loop_length}")
-            
+            logging.info(f"Playing {loc} on instrumental channel with length {self.loop_length}")       
 
     def play_melody(self):
         sound = self.active_loops["melody"]
@@ -96,10 +95,10 @@ class StemPlayer:
 
     def init_mixer(self):
         pygame.init()
-        pygame.mixer.pre_init(frequency=44100, size=-16, channels=2, buffer=512)
+        pygame.mixer.pre_init(frequency=48000, size=-16, channels=2, buffer=512)
         pygame.mixer.init()
         pygame.mixer.quit()
-        pygame.mixer.init(frequency=44100, size=-16, channels=2, buffer=512)
+        pygame.mixer.init(frequency=48000, size=-16, channels=2, buffer=512)
         self.player_state = "stopped"
         logging.info(f"Initialized Stem Player")
 
