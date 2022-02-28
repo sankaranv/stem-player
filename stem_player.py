@@ -7,6 +7,7 @@ import logging
 import sys
 import os
 from threading import Thread
+from pynput import keyboard
 
 file_handler = logging.FileHandler(filename='logs/stem_player.log')
 stdout_handler = logging.StreamHandler(sys.stdout)
@@ -124,10 +125,12 @@ vocals_selector.bind("<<ComboboxSelected>>", vocals_combo_selector)
 # Bottom row - sample grid
 
 samples_library = {}
+samples_list = []
 for file in os.listdir("./sounds/samples"):
     if file.endswith(".wav"):
         name = file.replace(".wav", '')
         samples_library[name] = file
+        samples_list.append(name)
 
 def samples_volume_changed(event):  
     volume = samples_slider.get()
@@ -181,12 +184,36 @@ root.protocol("WM_DELETE_WINDOW", close_window)
 
 # Main event loop
 
+def on_press(key):
+    try:
+        key_ = key.char
+    except AttributeError:
+        key_ = key.name
+
+def on_release(key):
+    try:
+        key_ = key.char
+    except AttributeError:
+        key_ = key.name
+    letters = "1234567890qwertyuiopasdfghjklzxcvbnm"
+    global samples_list
+    for i in range(len(samples_list)):
+        if key_ == letters[i]:
+            logging.info(f"Hit Key {letters[i]}")
+            sound = samples_library[samples_list[i]]
+            sp.trigger_sample(sound)
+
+listener = keyboard.Listener(on_press=on_press, on_release=on_release)
+listener.start()
+
 def loop_controller():
     global running
     for e in pygame.event.get():
         if e.type == pygame.USEREVENT and sp.player_state == "playing":
             sp.replay_all_loops()
             logging.info(f"Looping")
+
+
     if running:
         root.after(1, loop_controller)
     else:
