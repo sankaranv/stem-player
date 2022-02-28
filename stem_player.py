@@ -203,8 +203,8 @@ def on_release(key):
             sound = samples_library[samples_list[i]]
             sp.trigger_sample(sound)
 
-listener = keyboard.Listener(on_press=on_press, on_release=on_release)
-listener.start()
+# listener = keyboard.Listener(on_press=on_press, on_release=on_release)
+# listener.start()
 
 def loop_controller():
     global running
